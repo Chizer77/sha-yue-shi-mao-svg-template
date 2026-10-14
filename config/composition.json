@@ -1,0 +1,270 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "frameCount": 7967,
+  "duration": 132.78333333333333,
+  "units": [
+    {
+      "id": 1,
+      "name": "第一次黄色副歌",
+      "start": 0.0,
+      "end": 13.016666666666667,
+      "template": "chorus",
+      "start_frame": 0,
+      "end_frame": 781,
+      "directory": "src/sequences/chorus",
+      "previewFrames": [
+        120,
+        300,
+        360,
+        480,
+        660
+      ],
+      "thumbnailFrame": 120
+    },
+    {
+      "id": 2,
+      "name": "手机与总部消息",
+      "start": 13.016666666666667,
+      "end": 19.85,
+      "template": "narrative",
+      "start_frame": 781,
+      "end_frame": 1191,
+      "directory": "src/scenes/02-phone",
+      "previewFrames": [
+        930,
+        1128
+      ],
+      "thumbnailFrame": 930
+    },
+    {
+      "id": 3,
+      "name": "床铺与困倦",
+      "start": 19.85,
+      "end": 23.633333333333333,
+      "template": "narrative",
+      "start_frame": 1191,
+      "end_frame": 1418,
+      "transition_note": "新床角1191，人物1199，旧手机直到20.15；两镜头实际重叠横移。",
+      "directory": "src/scenes/03-bed",
+      "previewFrames": [
+        1260,
+        1380
+      ],
+      "thumbnailFrame": 1260
+    },
+    {
+      "id": 4,
+      "name": "树木伪装与潜行",
+      "start": 23.633333333333333,
+      "end": 26.683333333333334,
+      "template": "narrative",
+      "start_frame": 1418,
+      "end_frame": 1601,
+      "transition_note": "树首露约1418（±2帧），披上伪装1424；床残留至24.15。",
+      "directory": "src/scenes/04-tree",
+      "previewFrames": [
+        1500,
+        1584
+      ],
+      "thumbnailFrame": 1500
+    },
+    {
+      "id": 5,
+      "name": "三张城市观察照片",
+      "start": 26.683333333333334,
+      "end": 36.1,
+      "template": "narrative",
+      "start_frame": 1601,
+      "end_frame": 2166,
+      "directory": "src/scenes/05-photos",
+      "previewFrames": [
+        1710,
+        1860,
+        2040
+      ],
+      "thumbnailFrame": 1710
+    },
+    {
+      "id": 6,
+      "name": "思考与醒悟",
+      "start": 36.1,
+      "end": 39.2,
+      "template": "narrative",
+      "start_frame": 2166,
+      "end_frame": 2352,
+      "directory": "src/scenes/06-thinking",
+      "previewFrames": [
+        2220,
+        2310
+      ],
+      "thumbnailFrame": 2220
+    },
+    {
+      "id": 7,
+      "name": "第二次黄色副歌",
+      "start": 39.2,
+      "end": 51.3,
+      "template": "chorus",
+      "offset": 38.86666666666667,
+      "start_frame": 2352,
+      "end_frame": 3078,
+      "directory": "src/sequences/chorus",
+      "previewFrames": [
+        2460,
+        2690,
+        2810,
+        2980
+      ],
+      "thumbnailFrame": 2460
+    },
+    {
+      "id": 8,
+      "name": "五皮肤喵喵合唱",
+      "start": 51.3,
+      "end": 65.83333333333333,
+      "template": "narrative",
+      "start_frame": 3078,
+      "end_frame": 3950,
+      "transition_note": "CRT第一条白线3078，窗口第一内容3091；前镜头闭眼角色继续到51.8。",
+      "directory": "src/scenes/08-meow-choir",
+      "previewFrames": [
+        3240,
+        3480,
+        3780
+      ],
+      "thumbnailFrame": 3240
+    },
+    {
+      "id": 9,
+      "name": "六件物品类比",
+      "start": 65.83333333333333,
+      "end": 72.33333333333333,
+      "template": "objects",
+      "start_frame": 3950,
+      "end_frame": 4340,
+      "directory": "src/scenes/09-objects",
+      "previewFrames": [
+        4080,
+        4230
+      ],
+      "thumbnailFrame": 4080
+    },
+    {
+      "id": 10,
+      "name": "青蓝文字递进",
+      "start": 72.33333333333333,
+      "end": 78.28333333333333,
+      "template": "typography",
+      "start_frame": 4340,
+      "end_frame": 4697,
+      "directory": "src/scenes/10-typography",
+      "previewFrames": [
+        4380,
+        4530,
+        4650
+      ],
+      "thumbnailFrame": 4380
+    },
+    {
+      "id": 11,
+      "name": "科技室",
+      "start": 78.28333333333333,
+      "end": 81.66666666666667,
+      "template": "scifi",
+      "start_frame": 4697,
+      "end_frame": 4900,
+      "directory": "src/scenes/11-lab",
+      "previewFrames": [
+        4800
+      ],
+      "thumbnailFrame": 4800
+    },
+    {
+      "id": 12,
+      "name": "地球飞碟与降临",
+      "start": 81.66666666666667,
+      "end": 90.05,
+      "template": "scifi",
+      "start_frame": 4900,
+      "end_frame": 5403,
+      "directory": "src/scenes/12-landing",
+      "previewFrames": [
+        4980,
+        5280
+      ],
+      "thumbnailFrame": 4980
+    },
+    {
+      "id": 13,
+      "name": "正反打及伸手",
+      "start": 90.05,
+      "end": 102.8,
+      "template": "scifi",
+      "start_frame": 5403,
+      "end_frame": 6168,
+      "directory": "src/scenes/13-encounter",
+      "previewFrames": [
+        5460,
+        5600,
+        5820,
+        6080
+      ],
+      "thumbnailFrame": 5460
+    },
+    {
+      "id": 14,
+      "name": "逗猫棒与解释框",
+      "start": 102.8,
+      "end": 105.5,
+      "template": "scifi",
+      "start_frame": 6168,
+      "end_frame": 6330,
+      "transition_note": "棒首次进入约102.8（±2帧）；下一硬切6259=104.316667。",
+      "directory": "src/scenes/14-tomato-wand",
+      "previewFrames": [
+        6230,
+        6310
+      ],
+      "thumbnailFrame": 6230
+    },
+    {
+      "id": 15,
+      "name": "第三次副歌与博士过场",
+      "start": 105.5,
+      "end": 118.66666666666667,
+      "template": "chorus",
+      "offset": 105.36666666666666,
+      "start_frame": 6330,
+      "end_frame": 7120,
+      "transition_note": "第三次人字首露6330，比统一副歌偏移公式提前12帧；原解释镜头背景仍参与退场。",
+      "directory": "src/sequences/chorus",
+      "previewFrames": [
+        6480,
+        6680,
+        6810,
+        7020
+      ],
+      "thumbnailFrame": 6480
+    },
+    {
+      "id": 16,
+      "name": "歌手制作署名与退黑",
+      "start": 118.66666666666667,
+      "end": 132.78333333333333,
+      "template": "scifi",
+      "start_frame": 7120,
+      "end_frame": 7967,
+      "directory": "src/scenes/16-credits",
+      "previewFrames": [
+        7320,
+        7640,
+        7780,
+        7875
+      ],
+      "thumbnailFrame": 7320
+    }
+  ],
+  "name": "sha-yue-shi-mao-svg-template"
+}

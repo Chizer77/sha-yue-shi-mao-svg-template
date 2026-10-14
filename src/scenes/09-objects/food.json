@@ -1,0 +1,85 @@
+{
+  "foods": {
+    "noodles": {
+      "assetId": "noodles",
+      "file": "assets/props/food/noodles.png",
+      "nativeSize": [
+        1254,
+        1254
+      ],
+      "layoutEntityBBox": [
+        282,
+        84,
+        1078,
+        1153
+      ],
+      "mainBodyBBox": [
+        285,
+        342,
+        970,
+        1149
+      ],
+      "anchor": [
+        627.5,
+        1149
+      ],
+      "scale": 0.32116788321167883,
+      "rotation": 0,
+      "mirror": false
+    },
+    "spicy": {
+      "assetId": "snack",
+      "file": "assets/props/food/snack.png",
+      "nativeSize": [
+        1024,
+        1536
+      ],
+      "layoutEntityBBox": [
+        181,
+        34,
+        917,
+        1483
+      ],
+      "mainBodyBBox": [
+        186,
+        503,
+        931,
+        1480
+      ],
+      "anchor": [
+        558.5,
+        1480
+      ],
+      "scale": 0.32867132867132864,
+      "rotation": 0,
+      "mirror": false
+    },
+    "can": {
+      "assetId": "food-can",
+      "file": "assets/props/food/can.png",
+      "nativeSize": [
+        1663,
+        946
+      ],
+      "layoutEntityBBox": [
+        232,
+        99,
+        1434,
+        859
+      ],
+      "mainBodyBBox": [
+        232,
+        99,
+        1434,
+        859
+      ],
+      "anchor": [
+        833,
+        859
+      ],
+      "scale": 0.2911813643926789,
+      "rotation": 0,
+      "mirror": false
+    }
+  }
+}

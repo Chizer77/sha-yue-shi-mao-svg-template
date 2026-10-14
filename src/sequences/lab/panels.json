@@ -1,0 +1,111 @@
+{
+  "images": {
+    "room": "assets/backgrounds/lab-board.png",
+    "bubble": "assets/props/explanation-bubble.png",
+    "bubbleMascot": "assets/characters/mascot/reaching.png"
+  },
+  "labels": [
+    {
+      "text": "ATGACCAA",
+      "x": 1140,
+      "y": 420.5,
+      "jitter": [
+        2,
+        2,
+        1,
+        1,
+        0,
+        1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "text": "BY:Yin",
+      "x": 1155,
+      "y": 607,
+      "jitter": [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "glyphs": {
+    "A": {
+      "path": "M0 13L4.8 0L10 13M2.6 8.5L7.6 8.5",
+      "advance": 13
+    },
+    "T": {
+      "path": "M0 0L10 0M5 0L5.2 13",
+      "advance": 13
+    },
+    "G": {
+      "path": "M10 2Q7 -2 3 1Q-1 4 0 9Q1 14 6 13L10 12L10 7L6 7",
+      "advance": 13
+    },
+    "C": {
+      "path": "M10 1Q5 -2 2 2Q-1 6 1 10Q3 15 10 12",
+      "advance": 13
+    },
+    "B": {
+      "path": "M1 13L1 0Q11 0 9 4Q8 6 2 6Q13 6 10 11Q9 14 1 13",
+      "advance": 13
+    },
+    "Y": {
+      "path": "M0 0L5 6L10 0M5 6L5 13",
+      "advance": 13
+    },
+    ":": {
+      "path": "M1 4L1.5 4M1 10L1.5 10",
+      "advance": 6
+    },
+    "i": {
+      "path": "M2 2L2.2 2M2 5L2 13",
+      "advance": 6
+    },
+    "n": {
+      "path": "M1 13V5M1 9Q3 3 7 5Q9 6 9 13",
+      "advance": 12
+    }
+  },
+  "charm": {
+    "path": "M164 41L247 45L175 84L0 269L24 540L84 686L168 785L351 862L586 869L620 868L836 800L889 743L971 646L1004 509L1028 363L930 226L827 115L751 76L767 55L812 39L747 16L713 8L638 32L619 11L607 5L592 24L426 1L414 1L340 18L296 0L289 0ZM88 208L237 163L411 186L442 235L495 396L566 251L605 209L796 218L945 284L878 218L834 180L699 146L767 55L811 39L746 16L715 9L637 32L617 10L606 5L558 72L540 85L510 121L477 76L295 0L256 10L164 42L251 44L339 114L237 115L210 118L169 144Z",
+    "anchor": [
+      514.5,
+      69.68
+    ],
+    "width": 1029,
+    "height": 871
+  },
+  "charms": {
+    "bubble": {
+      "x": 843,
+      "y": 450,
+      "scale": 0.10689990281827016,
+      "fill": "none",
+      "stroke": "#202423",
+      "strokeWidth": 30.869999999999997,
+      "dash": "65.4818 46.7727"
+    },
+    "doctor": {
+      "x": 568,
+      "y": 665,
+      "scale": 0.05344995140913508,
+      "fill": "#a0a6a3"
+    }
+  },
+  "characterBindings": {
+    "room": "lab-portrait",
+    "handReverse": "front-portrait"
+  },
+  "bubbleMascot": {
+    "x": 890,
+    "y": 25,
+    "width": 600.6,
+    "height": 554.4
+  }
+}

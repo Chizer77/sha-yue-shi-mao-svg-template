@@ -1,0 +1,25 @@
+{
+  "name": "sha-yue-shi-mao-svg-template",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/dev/server.mjs",
+    "render": "node scripts/export/video.mjs",
+    "overview": "node scripts/build-previews/overview.mjs",
+    "render:full": "node scripts/export/video.mjs",
+    "render:frames": "node scripts/export/frames.mjs",
+    "build:assets": "node scripts/build-assets/run.mjs",
+    "build:dialogue:light": "node scripts/build-assets/light-dialogue.mjs",
+    "build:dialogue:dark": "node scripts/build-assets/python.mjs dark-dialogue",
+    "build:expressions": "node scripts/build-assets/python.mjs expressions"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1",
+    "sharp": "0.35.5"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "description": "A replaceable-character SVG animation template with local preview, asset generation, and video export."
+}

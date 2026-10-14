@@ -1,0 +1,48 @@
+{
+  "bed": {
+    "colorCut": 23.2,
+    "captions": [
+      {
+        "time": 21.5,
+        "text": "清零困倦还未"
+      }
+    ],
+    "echoes": [
+      {
+        "time": 20.78,
+        "end": 21.78,
+        "text": "惺",
+        "x": 460,
+        "y": 364
+      },
+      {
+        "time": 20.84,
+        "end": 21.78,
+        "text": "惺",
+        "x": 1580,
+        "y": 320
+      },
+      {
+        "time": 21.16,
+        "end": 21.78,
+        "text": "忪",
+        "x": 461,
+        "y": 952
+      },
+      {
+        "time": 21.23,
+        "end": 21.78,
+        "text": "忪",
+        "x": 1494,
+        "y": 952
+      }
+    ],
+    "captionVerified": "Source frames 20.0–23.5 s inspected at 0.5 s. The only right-column caption is 清零 / 困倦还未; small dark 惺 and 忪 echo the large text."
+  },
+  "game": {
+    "caption": {
+      "start": 65.1,
+      "text": "说白了"
+    }
+  }
+}

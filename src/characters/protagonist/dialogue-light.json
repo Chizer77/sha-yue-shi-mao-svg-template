@@ -1,0 +1,8 @@
+{
+  "fps": 60,
+  "start": 333,
+  "end": 452,
+  "width": 600,
+  "height": 900,
+  "method": "continuous-displacement-prebake"
+}

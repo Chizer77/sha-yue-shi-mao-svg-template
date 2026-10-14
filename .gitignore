@@ -1,0 +1,21 @@
+# 本地依赖与缓存
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+
+# 可从基础图和动画参数重新生成；input/ 中的原图必须提交
+/assets/characters/protagonist-light/dialogue/frame-*.png
+/assets/characters/protagonist-dark/dialogue/frame-*.png
+/assets/characters/protagonist-dark/expressions/reaction-*.png
+
+# 视频、导出帧、总览和导出任务状态
+/exports/

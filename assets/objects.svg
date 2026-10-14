@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+ <defs>
+  <linearGradient id="noodleCupShade" x2="1" y2="0"><stop stop-color="#ed9d4d"/><stop offset=".25" stop-color="#e6783c"/><stop offset=".8" stop-color="#d56c33"/><stop offset="1" stop-color="#eb9b4c"/></linearGradient>
+  <g id="obj-noodles" data-editable="cup,lid,noodles,chopsticks,label">
+   <path d="M-99-226L-80-36Q0-2 81-36L100-226Z" fill="url(#noodleCupShade)"/>
+   <path d="M-98-221L-78-38Q-61-27-43-24L-55-224Z" fill="#ffc878"/>
+   <ellipse cy="-225" rx="101" ry="31" fill="#ffe3a2" stroke="#db9b58" stroke-width="4"/>
+   <ellipse cx="8" cy="-398" rx="87" ry="97" transform="rotate(-16 8 -398)" fill="#bfbab0"/>
+   <path d="M-69-356Q-94-424-55-462" fill="none" stroke="#d4cbbb" stroke-width="4"/>
+   <g fill="none" stroke="#f5cc82" stroke-width="5" stroke-linecap="round">
+    <path d="M-23-229Q22-285 5-327T9-411Q34-429 24-444"/><path d="M-12-230Q45-279 19-321T31-413"/>
+    <path d="M-35-235Q-10-268-4-304T10-383Q-11-433 18-432"/><path d="M11-235Q-6-282 31-313T21-397Q52-441 11-430"/>
+    <path d="M-31-232Q46-273 14-310Q-15-350 37-414"/><path d="M-53-231q32-34 65-2t61-5m-146-1q29-19 51 0t68 0"/>
+   </g>
+   <path d="M-1-431L129-457" stroke="#fff2bf" stroke-width="12" stroke-linecap="round"/>
+   <g fill="#fff1d5" font-family="MV Sans" font-weight="900"><text x="-77" y="-145" font-size="46" transform="rotate(-5)">方便面</text><text x="-59" y="-93" font-size="22">香浓 · 一碗好味</text></g>
+   <g fill="none" stroke="#f0c17a" stroke-width="5"><ellipse cx="36" cy="-68" rx="37" ry="27"/><path d="M6-73q18-22 30 2t30-1M10-65q19-22 31 2t26-1M20-84q12 13 9 29m14-31q12 13 9 29"/></g>
+  </g>
+  <g id="obj-spicy" data-editable="package,sticks,label">
+   <g transform="rotate(-13 0 -200)">
+    <path d="M-53-305H62L54-31H-46Z" fill="#fbf5d9"/><path d="M-51-299L60-299L51-274H-49Z" fill="#e7d9b0"/>
+    <g stroke="#e4984c" stroke-width="10"><path d="M-29-238L-44-400M-7-242L-13-390M16-241L19-410M36-238L42-373"/></g>
+    <path d="M-25-420L36-484L54-465L2-400Z" fill="#fffbe2"/>
+    <path d="M-51-215H59L54-30H-46Z" fill="#fffbe2"/>
+    <path d="M-34-178L-21-143M-32-137L-18-105M-30-98L-16-65" stroke="#ec814c" stroke-width="6"/>
+    <g fill="#665f52" font-family="MV Serif" font-weight="900"><text x="-5" y="-173" font-size="33">辣</text><text x="-5" y="-134" font-size="33">条</text><text x="34" y="-190" font-size="12" writing-mode="vertical-rl">经典美味</text></g>
+    <g stroke="#e9a062" stroke-width="7"><path d="M-29-50L31-92M-17-42L41-77M-3-36L43-58"/></g>
+   </g>
+  </g>
+  <g id="obj-cable" fill="none" stroke="#fff6d8" stroke-width="8" stroke-linecap="round">
+   <path d="M88-159C-101-198-177-120-129-58C-93-8 18 0 80-47C176-120 116-240 5-230C-104-220-176-122-135-77C-86-20 48-12 103-91C174-193 51-269-49-217C-145-165-155-74-64-44C29-13 147-99 130-166C109-255-17-261-94-185C-168-111-105-25-23-51C63-78 99-200 44-222C-8-244-95-155-71-110C-39-48 82-60 97-129C116-218-11-225-72-170"/>
+   <path d="M-88-45L-115-4M86-160L128-186"/>
+   <path d="M-123-4L-110 6L-99-13L-111-22Z" fill="#fff6d8" stroke-width="3"/>
+   <path d="M128-197L143-177L164-194L149-212Z" fill="#fff6d8" stroke-width="3"/>
+  </g>
+  <g id="obj-can" data-editable="lid,body,label,cat">
+   <path d="M-178-194V-53C-178 4 178 4 178-53V-194Z" fill="#e9aa62" stroke="#c99355" stroke-width="4"/>
+   <path d="M-153-185V-46C-64-13 72-13 151-49V-185Z" fill="#d6783c"/>
+   <path d="M-137-178V-50M130-178V-47" stroke="#ffd794" stroke-width="6" stroke-dasharray="5 6"/>
+   <path d="M-68-159Q0-176 69-156V-43Q0-27-68-43Z" fill="#ffe9b7"/>
+   <path d="M-38-65Q-50-93-38-119L-37-143L-16-133Q2-142 21-131L41-144L43-119Q55-81 37-57Z" fill="#8e6945"/>
+   <path d="M-7-100q8-11 17 0m-5 10q-8 8-13 0" stroke="#ffecbc" fill="none" stroke-width="4"/>
+   <ellipse cx="-22" cy="-111" rx="3" ry="4" fill="#ffe8ad"/><ellipse cx="23" cy="-111" rx="3" ry="4" fill="#ffe8ad"/>
+   <path d="M-24-67Q-51-84-49-58" stroke="#8e6945" stroke-width="13" fill="none" stroke-linecap="round"/>
+   <ellipse cy="-194" rx="179" ry="49" fill="#ffe194" stroke="#deaa60" stroke-width="5"/>
+   <ellipse cy="-197" rx="158" ry="34" fill="none" stroke="#efc273" stroke-width="4"/>
+   <path d="M-108-202q16-23 52-6q1 15-40 12Z" fill="none" stroke="#e6b36a" stroke-width="5"/>
+  </g>
+  <g id="obj-catTreat" data-editable="package,cat,wordmark">
+   <g transform="rotate(-17 0 -200)">
+    <path d="M-43-416H45L42-35H-39Z" fill="#fff9dc"/>
+    <path d="M-35-457L-12-493L49-444L34-419Z" fill="#fff9dc"/>
+    <path d="M-41-414L45-414L28-394L-22-394Z" fill="#dfc794"/>
+    <text x="-22" y="-358" fill="#6b675c" font-family="MV Serif" font-weight="900" font-size="39" writing-mode="vertical-rl">猫条</text>
+    <path d="M-26-260H31V-104H-26Z" fill="#817b69"/>
+    <text x="-12" y="-246" transform="rotate(90 -12 -246)" fill="#fff6d9" font-family="MV Sans" font-size="38">KAI</text>
+    <path d="M-26-83Q-39-112-18-137L-12-166L9-150L24-162L25-137Q51-109 25-81Z" fill="#efbd87"/>
+    <ellipse cx="-5" cy="-129" rx="3" ry="4" fill="#765e49"/><ellipse cx="16" cy="-131" rx="3" ry="4" fill="#765e49"/>
+    <path d="M5-119q-5 10-11 3m11-3q6 8 11 0" fill="none" stroke="#765e49" stroke-width="3"/>
+   </g>
+  </g>
+  <g id="obj-yarn" data-editable="ball,threads,loose-end">
+   <path d="M54-48C223-45 229 9 176 10L113 7" fill="none" stroke="#fff7d9" stroke-width="7" stroke-linecap="round"/>
+   <path d="M-100-222Q-93-303-19-314Q78-330 122-256Q143-197 130-129Q125-59 64-30Q-25 0-102-52Q-161-121-137-175Q-128-202-100-222Z" fill="#fff8db"/>
+   <g fill="none" stroke="#eae1c2" stroke-width="8" stroke-linecap="round"><path d="M-96-250Q-15-266 78-281M-126-185Q-27-235 116-220M-138-131Q-6-209 132-172M-92-91Q-105-141-71-171M-28-33Q-8-108-36-187M31-23Q76-102 40-198M86-52Q129-126 94-198"/></g>
+  </g>
+ </defs>
+ <rect width="1920" height="1080" fill="#54c9e0"/>
+ <use href="#obj-noodles" transform="translate(350 510) scale(.8)"/><use href="#obj-spicy" transform="translate(960 510) scale(.8)"/><use href="#obj-cable" transform="translate(1510 510) scale(.8)"/>
+ <use href="#obj-can" transform="translate(350 970) scale(.8)"/><use href="#obj-catTreat" transform="translate(960 970) scale(.8)"/><use href="#obj-yarn" transform="translate(1510 970) scale(.8)"/>
+</svg>

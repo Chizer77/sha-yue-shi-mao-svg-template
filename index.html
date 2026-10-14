@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>sha-yue-shi-mao-svg-template</title><link rel="stylesheet" href="app/styles/fonts.css"><link rel="stylesheet" href="app/styles/app.css"></head>
+<body>
+<header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">猫</span><span>人是猫<small>SVG 动画模板</small></span></a><nav aria-label="页面导航"><a class="active" href="index.html">播放器</a><a href="gallery.html">画面总览</a><a href="timing.html">喵喵对轴</a><a href="README.md">使用说明</a></nav><button id="show-export" class="primary" disabled>导出视频</button></header>
+<main class="workspace">
+ <aside class="stage-navigation"><div class="panel-heading"><h2>视频阶段</h2><span id="stage-count">16 段</span></div><nav id="stage-list" aria-label="选择视频阶段"></nav></aside>
+ <section class="player-column">
+  <div class="player-heading"><div><span class="eyebrow" id="scene-number">STAGE 01</span><h1 id="scene-name">正在加载工程</h1></div><span class="format-badge">1080p · 60 FPS</span></div>
+  <div id="screen"><svg id="stage" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-label="人是猫动画舞台"><defs id="stage-defs"></defs><g id="stage-content"></g></svg></div>
+  <section class="playback-controls" aria-label="播放控制">
+   <div class="time-row"><span id="time">00:00.000 / 02:12.783</span><span id="frame-number">第 0 帧</span></div>
+   <label class="sr-only" for="seek">视频进度</label><input id="seek" type="range" min="0" max="7966" step="1" value="0" disabled>
+   <div class="control-row"><div class="transport"><button id="previous" class="quiet" disabled aria-label="上一阶段">上一段</button><button id="toggle-play" class="play-button" disabled aria-label="播放" aria-pressed="false">播放</button><button id="next" class="quiet" disabled aria-label="下一阶段">下一段</button><button id="restart-stage" class="quiet" disabled>段首</button></div><div class="playback-options"><label><input id="loop-stage" type="checkbox"> 循环本段</label><label class="sr-only" for="speed">播放速度</label><select id="speed"><option value="0.5">0.5×</option><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></div></div>
+   <div class="player-footer"><span><kbd>空格</kbd> 播放 / 暂停 <span class="key-separator">·</span> <kbd>←</kbd> <kbd>→</kbd> 逐帧</span><div><button id="download-svg" class="text-button" disabled>导出当前 SVG</button><button id="toggle-assets" class="text-button">本段素材</button></div></div>
+  </section>
+  <p id="status" class="status" role="status" aria-live="polite">正在加载人物、字体和音轨…</p>
+  <section id="export-progress" class="export-progress" hidden aria-live="polite"><div><strong id="export-label">正在准备导出</strong><span id="export-percent">0%</span></div><progress id="export-meter" max="1" value="0"></progress><p id="export-detail"></p><a id="export-download" hidden download>下载视频</a></section>
+ </section>
+ <aside id="asset-panel" class="asset-panel"><div class="panel-heading"><h2>本段素材</h2><button id="close-assets" class="text-button">收起</button></div><p class="hint">查看本段使用的素材文件。</p><div id="asset-list"></div><a id="scene-code" class="source-link" href="README.md">阶段代码 ↗</a></aside>
+</main>
+<audio id="soundtrack" preload="auto" src="assets/audio/original.m4a"></audio>
+<dialog id="export-dialog"><form id="export-form"><div class="dialog-heading"><h2>导出视频</h2><button type="button" id="close-export" class="quiet" aria-label="关闭导出窗口">关闭</button></div><p class="hint">1920 × 1080 · 60 FPS · MP4 · 包含音轨</p><label for="export-scope">导出范围</label><select id="export-scope"><option value="full">完整视频</option><option value="stage">当前阶段</option><option value="custom">自定义帧区间</option></select><div id="custom-range" class="custom-range" hidden><label>开始帧<input id="export-start" type="number" min="0" max="7966" value="0"></label><label>结束帧（不含）<input id="export-end" type="number" min="1" max="7967" value="7967"></label></div><p id="export-range-label" class="hint"></p><p id="export-error" class="error" role="alert"></p><button class="primary" type="submit" id="start-export">开始导出</button></form></dialog>
+<script type="module" src="app/player/index.js"></script>
+</body></html>

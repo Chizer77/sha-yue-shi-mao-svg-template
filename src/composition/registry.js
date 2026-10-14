@@ -1,0 +1,16 @@
+import {chorus} from '../sequences/chorus/scene.js';
+const chorusStage=(time,context,unit)=>chorus(time,context,unit.offset||0);
+import {render as scene2} from '../scenes/02-phone/scene.js';
+import {render as scene3} from '../scenes/03-bed/scene.js';
+import {render as scene4} from '../scenes/04-tree/scene.js';
+import {render as scene5} from '../scenes/05-photos/scene.js';
+import {render as scene6} from '../scenes/06-thinking/scene.js';
+import {render as scene8} from '../scenes/08-meow-choir/scene.js';
+import {render as scene9} from '../scenes/09-objects/scene.js';
+import {render as scene10} from '../scenes/10-typography/scene.js';
+import {render as scene11} from '../scenes/11-lab/scene.js';
+import {render as scene12} from '../scenes/12-landing/scene.js';
+import {render as scene13} from '../scenes/13-encounter/scene.js';
+import {render as scene14} from '../scenes/14-tomato-wand/scene.js';
+import {render as scene16} from '../scenes/16-credits/scene.js';
+export const scenes={1:chorusStage,2:scene2,3:scene3,4:scene4,5:scene5,6:scene6,7:chorusStage,8:scene8,9:scene9,10:scene10,11:scene11,12:scene12,13:scene13,14:scene14,15:chorusStage,16:scene16};
