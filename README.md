@@ -17,7 +17,7 @@ npm start
 
 macOS / Linux 使用 `python3` 创建环境，并将 Python 路径换为 `.venv/bin/python`。
 
-打开 **http://127.0.0.1:8767**。Windows 也可双击 `启动预览.cmd`。导出使用本机 Edge 或 Playwright Chromium；没有可用浏览器时运行 `npx playwright install chromium`。
+打开 **http://127.0.0.1:8767**。Windows 也可双击 `start-preview.cmd`。导出使用本机 Edge 或 Playwright Chromium；没有可用浏览器时运行 `npx playwright install chromium`。
 
 ## 使用
 
@@ -37,6 +37,17 @@ npm run render:full       # 导出完整视频
 npm run format            # Prettier 格式化
 npm run format:check      # 检查格式
 ```
+
+## 发布版本
+
+推送版本标签后，GitHub Actions 会将完整源码与已跟踪素材打包为 ZIP，上传到 [Releases](https://github.com/Chizer77/sha-yue-shi-mao-svg-template/releases)，并附带 SHA-256 校验文件。
+
+```bash
+git tag v1.0.0
+git push origin v1.0.0
+```
+
+也可在 Actions → Package Release → Run workflow 中填写已推送的标签，重新打包。`v1.0.0-beta.1` 等带后缀版本会标记为预发布。发行包不包含依赖和生成帧，解压后按上述步骤安装、启动并生成素材。
 
 ## 目录
 
