@@ -1,0 +1,157 @@
+#generation-badge {
+  margin-left: 5px;
+  padding: 1px 5px;
+  border-radius: 8px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-size: 10px;
+}
+.preview-area {
+  position: relative;
+}
+.preview-placeholder {
+  position: absolute;
+  z-index: 1;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  padding: 24px;
+  text-align: center;
+  background: var(--background);
+  border: 1px dashed var(--line);
+  border-radius: 10px;
+}
+.preview-placeholder p {
+  color: var(--muted);
+  font-size: 13px;
+  max-width: 380px;
+}
+#generation-dialog {
+  width: min(560px, 94vw);
+}
+.generation-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  cursor: pointer;
+}
+.generation-option span {
+  min-width: 0;
+}
+.generation-option strong,
+.generation-option small {
+  display: block;
+}
+.generation-option strong {
+  font-size: 13px;
+  font-weight: 500;
+}
+.generation-option small {
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 3px;
+}
+.generation-job {
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  margin-top: 16px;
+  font-size: 12px;
+}
+.generation-job progress {
+  width: 100%;
+  height: 7px;
+  accent-color: var(--accent);
+  display: block;
+  margin-top: 10px;
+}
+.generation-job details {
+  margin-top: 10px;
+}
+.generation-job summary {
+  cursor: pointer;
+  color: var(--muted);
+}
+#generation-log {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  max-height: 160px;
+  overflow: auto;
+  font-size: 10px;
+  color: var(--muted);
+}
+#generation-error {
+  overflow-wrap: anywhere;
+}
+#apply-generated {
+  width: 100%;
+  margin-top: 10px;
+}
+.generated-card {
+  height: auto;
+  padding: 12px 0;
+}
+.generated-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+  font-size: 11px;
+}
+.generated-heading strong {
+  font-weight: 500;
+}
+.generated-badge {
+  font-size: 10px;
+  white-space: nowrap;
+  border: 1px solid #706047;
+  color: var(--accent);
+  border-radius: 4px;
+  padding: 1px 5px;
+}
+.generated-state {
+  font-size: 10px;
+  color: var(--accent);
+  margin-top: 5px;
+}
+.generated-source {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 9px 0;
+}
+.generated-source img {
+  width: 42px;
+  height: 52px;
+  object-fit: contain;
+  background: var(--panel);
+  border-radius: 5px;
+}
+.generated-source .asset-file {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+}
+.generated-card .hint {
+  font-size: 10px;
+  line-height: 1.7;
+}
+.generate-group {
+  width: 100%;
+  font-size: 11px;
+  padding: 5px 6px;
+  margin-top: 8px;
+}
+@media (max-width: 850px) {
+  .header-actions {
+    max-width: 55vw;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+}

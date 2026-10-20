@@ -1,0 +1,246 @@
+/* 页面固定于视口，长内容只在左右面板内滚动。 */
+body.player-page {
+  height: 100dvh;
+  overflow: hidden;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+}
+.site-header {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 12px 28px;
+  padding: 12px 20px;
+  border-bottom: 1px solid var(--line);
+  align-items: center;
+}
+.player-toolbar {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: auto minmax(100px, 1fr) auto;
+  gap: 24px;
+  border-top: 1px solid var(--line);
+  padding-top: 11px;
+  align-items: center;
+}
+.toolbar-timeline {
+  min-width: 0;
+}
+.workspace {
+  display: grid;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  grid-template-columns: 210px minmax(0, 1fr) 264px;
+  gap: 20px;
+  padding: 18px 20px;
+}
+body[data-mode='timing'] .workspace {
+  grid-template-columns: 210px minmax(0, 1fr) 324px;
+}
+.stage-navigation,
+.player-column,
+.inspector-panel,
+.asset-panel,
+.timing-panel {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  min-width: 0;
+}
+.inspector-panel {
+  border-left: 1px solid var(--line);
+  padding-left: 16px;
+}
+.asset-panel,
+.timing-panel {
+  flex: 1;
+}
+#stage-list,
+#asset-list,
+.timing-scroll {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 0 5px 0 0;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+  scrollbar-width: thin;
+  scrollbar-color: #46534e transparent;
+}
+#asset-list {
+  margin-top: 12px;
+}
+.preview-area {
+  flex: 1;
+  min-height: 0;
+  min-width: 0;
+  container-type: size;
+  display: grid;
+  place-items: center;
+}
+#screen {
+  width: min(100cqw, calc(100cqh * 16 / 9));
+  aspect-ratio: 16/9;
+  max-height: 100%;
+}
+body.panel-hidden .workspace {
+  grid-template-columns: 210px minmax(0, 1fr);
+}
+body.panel-hidden .inspector-panel {
+  display: none;
+}
+#toggle-panel,
+#stage-select {
+  display: none;
+}
+body.panel-hidden #toggle-panel {
+  display: inline-block;
+}
+
+@media (max-width: 1250px) {
+  .workspace,
+  body[data-mode='timing'] .workspace,
+  body.panel-hidden .workspace {
+    grid-template-columns: 190px minmax(0, 1fr);
+    gap: 16px;
+  }
+  .inspector-panel {
+    display: none;
+  }
+  #toggle-panel {
+    display: inline-block;
+  }
+  body.panel-open .inspector-panel {
+    display: flex;
+    position: fixed;
+    z-index: 5;
+    right: 16px;
+    top: calc(var(--header-height, 128px) + 12px);
+    bottom: 16px;
+    width: 324px;
+    max-width: calc(100vw - 24px);
+    padding: 16px;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    box-shadow: 0 10px 50px #0008;
+  }
+  .player-toolbar {
+    gap: 14px;
+  }
+  .transport button {
+    padding: 7px 8px;
+  }
+}
+@media (max-width: 850px) {
+  .site-header {
+    padding: 10px 12px;
+    gap: 9px 12px;
+    grid-template-columns: 1fr auto;
+  }
+  .page-links {
+    grid-column: 1/-1;
+    grid-row: 2;
+    justify-content: start;
+    gap: 24px;
+  }
+  .page-links button {
+    padding: 3px 0;
+    font-size: 12px;
+  }
+  .player-toolbar {
+    grid-template-columns: 1fr auto;
+    gap: 9px;
+    padding-top: 9px;
+  }
+  .toolbar-timeline {
+    grid-column: 1/-1;
+    grid-row: 2;
+  }
+  .transport {
+    gap: 4px;
+    flex-wrap: wrap;
+  }
+  .transport button {
+    padding: 6px 7px;
+    font-size: 11px;
+  }
+  .play-button {
+    min-width: 50px;
+  }
+  #timing-tools {
+    gap: 4px;
+  }
+  .playback-options {
+    gap: 6px;
+    font-size: 10px;
+  }
+  .playback-options select {
+    padding: 4px 2px;
+  }
+  .workspace,
+  body[data-mode='timing'] .workspace,
+  body.panel-hidden .workspace {
+    display: flex;
+    padding: 12px;
+    gap: 0;
+  }
+  .stage-navigation {
+    display: none;
+  }
+  .player-column {
+    flex: 1;
+  }
+  .player-heading {
+    margin-bottom: 8px;
+  }
+  .format-badge {
+    display: none;
+  }
+  #stage-select {
+    display: block;
+    flex: none;
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 12px;
+    padding: 5px 8px;
+  }
+  .player-footer {
+    font-size: 10px;
+    margin-top: 8px;
+    padding-top: 8px;
+  }
+  .player-footer > span:last-child {
+    display: none;
+  }
+  body.panel-open .inspector-panel {
+    bottom: 12px;
+    right: 12px;
+  }
+  .header-actions button {
+    padding: 6px 8px;
+    font-size: 11px;
+  }
+  .export-progress {
+    max-height: 100px;
+  }
+  .time-row {
+    font-size: 10px;
+  }
+  .brand {
+    font-size: 15px;
+  }
+}
+@media (max-height: 550px) and (min-width: 851px) {
+  .workspace {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .player-heading {
+    margin-bottom: 5px;
+  }
+  .player-footer {
+    display: none;
+  }
+}

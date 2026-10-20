@@ -1,0 +1,65 @@
+{
+  "groups": [
+    {
+      "id": "light-dialogue",
+      "label": "浅色对话",
+      "directory": "assets/characters/protagonist-light/dialogue",
+      "sources": [
+        {
+          "file": "assets/characters/protagonist-light/dialogue/input/open.png",
+          "label": "睁眼张嘴",
+          "size": [1024, 1536]
+        },
+        {
+          "file": "assets/characters/protagonist-light/dialogue/input/closed-mouth.png",
+          "label": "闭嘴表情",
+          "size": [1024, 1536]
+        },
+        {
+          "file": "assets/characters/protagonist-light/dialogue/input/closed-eyes.png",
+          "label": "闭眼表情",
+          "size": [1024, 1536]
+        }
+      ]
+    },
+    {
+      "id": "dark-dialogue",
+      "label": "深色对话",
+      "directory": "assets/characters/protagonist-dark/dialogue",
+      "sources": [
+        {
+          "file": "assets/characters/protagonist-dark/dialogue/input/open.png",
+          "label": "睁眼张嘴",
+          "size": [1024, 1536]
+        },
+        {
+          "file": "assets/characters/protagonist-dark/dialogue/input/closed-mouth.png",
+          "label": "闭嘴表情",
+          "size": [1024, 1536]
+        },
+        {
+          "file": "assets/characters/protagonist-dark/dialogue/input/closed-eyes.png",
+          "label": "闭眼表情",
+          "size": [1024, 1536]
+        }
+      ]
+    },
+    {
+      "id": "expressions",
+      "label": "表情过渡",
+      "directory": "assets/characters/protagonist-dark/expressions",
+      "sources": [
+        {
+          "file": "assets/characters/protagonist-dark/expressions/input/start.png",
+          "label": "起始表情",
+          "size": [1024, 1536]
+        },
+        {
+          "file": "assets/characters/protagonist-dark/expressions/input/end.png",
+          "label": "结束表情",
+          "size": [1024, 1536]
+        }
+      ]
+    }
+  ]
+}

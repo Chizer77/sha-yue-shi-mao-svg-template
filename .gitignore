@@ -11,11 +11,12 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+.vscode/
 
-# 可从基础图和动画参数重新生成；input/ 中的原图必须提交
+# 可从基础图和动画参数重新生成
 /assets/characters/protagonist-light/dialogue/frame-*.png
 /assets/characters/protagonist-dark/dialogue/frame-*.png
 /assets/characters/protagonist-dark/expressions/reaction-*.png
 
-# 视频、导出帧、总览和导出任务状态
+# 视频、导出帧、阶段缩略图和导出任务状态
 /exports/
