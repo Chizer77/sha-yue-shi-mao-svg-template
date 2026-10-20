@@ -40,7 +40,7 @@ npm run format:check      # 检查格式
 
 ## 发布版本
 
-推送版本标签后，GitHub Actions 会将完整源码与已跟踪素材打包为 ZIP，上传到 [Releases](https://github.com/Chizer77/sha-yue-shi-mao-svg-template/releases)，并附带 SHA-256 校验文件。
+推送版本标签后，GitHub Actions 会将完整源码与已跟踪素材打包为 ZIP，上传到 [Releases](https://github.com/Chizer77/sha-yue-shi-mao-svg-template/releases)。
 
 ```bash
 git tag v1.0.0

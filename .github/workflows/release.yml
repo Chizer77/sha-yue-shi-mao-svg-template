@@ -49,19 +49,17 @@ jobs:
           # 直接归档标签对应的提交，避免把依赖、缓存和生成结果混入发行包。
           git archive --format=zip --prefix="${package_name}/" \
             --output="dist/${package_name}.zip" HEAD
-          cd dist
-          sha256sum "${package_name}.zip" > "${package_name}.zip.sha256"
 
       - name: Publish release assets
         shell: bash
         run: |
           if gh release view "$RELEASE_TAG" > /dev/null 2>&1; then
             # 重跑时更新同名附件，不重复创建 Release。
-            gh release upload "$RELEASE_TAG" dist/* --clobber
+            gh release upload "$RELEASE_TAG" dist/*.zip --clobber
           else
             release_options=(--verify-tag --title "$RELEASE_TAG" --generate-notes)
             if [[ "$RELEASE_TAG" == *-* ]]; then
               release_options+=(--prerelease)
             fi
-            gh release create "$RELEASE_TAG" dist/* "${release_options[@]}"
+            gh release create "$RELEASE_TAG" dist/*.zip "${release_options[@]}"
           fi
