@@ -2,14 +2,8 @@
   "sprites": {
     "side": {
       "file": "assets/characters/protagonist-dark/side-view.png",
-      "nativeSize": [
-        1024,
-        1536
-      ],
-      "targetSize": [
-        1086,
-        1448
-      ],
+      "nativeSize": [1024, 1536],
+      "targetSize": [1086, 1448],
       "placement": {
         "scale": 1.3151847184821261,
         "x": -122.37529328987966,
@@ -18,14 +12,8 @@
     },
     "front": {
       "file": "assets/characters/protagonist-dark/front-view.png",
-      "nativeSize": [
-        1024,
-        1536
-      ],
-      "targetSize": [
-        1086,
-        1448
-      ],
+      "nativeSize": [1024, 1536],
+      "targetSize": [1086, 1448],
       "placement": {
         "scale": 1.271292740887343,
         "x": -108.34292906890676,
@@ -34,10 +22,7 @@
     },
     "back": {
       "file": "assets/characters/protagonist-dark/back-view.png",
-      "nativeSize": [
-        1024,
-        1536
-      ],
+      "nativeSize": [1024, 1536],
       "world": {
         "x": -660,
         "y": 170,
@@ -47,14 +32,8 @@
     },
     "little": {
       "file": "assets/characters/assistant/side-view.png",
-      "nativeSize": [
-        1024,
-        1536
-      ],
-      "targetSize": [
-        1024,
-        1536
-      ],
+      "nativeSize": [1024, 1536],
+      "targetSize": [1024, 1536],
       "placement": {
         "scale": 0.984,
         "x": -101.09007371805978,
@@ -62,8 +41,5 @@
       }
     }
   },
-  "section": [
-    90.05,
-    102.8
-  ]
+  "section": [90.05, 102.8]
 }

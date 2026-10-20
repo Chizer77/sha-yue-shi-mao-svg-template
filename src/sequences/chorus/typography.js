@@ -1,11 +1,88 @@
-import {palette as P,background,g,text,serif,track,clamp,ease,mix,alien,handFrame} from '../../core/svg.js';
-const objectSource=await (await fetch(new URL('../../../assets/objects.svg',import.meta.url))).text();
-export const chorusDefs=objectSource.match(/<defs>([\s\S]*?)<\/defs>/)[1]+`<filter color-interpolation-filters="sRGB" id="chorusShadow" x="-70%" y="-15%" width="200%" height="160%"><feColorMatrix type="matrix" values="0 0 0 0 .18 0 0 0 0 .19 0 0 0 0 .18 0 0 0 1 0"/></filter>`;
-const span=(v,x,y,size,width,fill='#fff',attrs='')=>text(v,x,y,size,fill,`${width?`textLength="${width}" lengthAdjust="spacingAndGlyphs"`:''} ${attrs}`);
-function title(v,x,y,size,width,rot=0,side=true){let shape=span(v,0,0,size,width,'#fdfdfd','paint-order="stroke fill" stroke="#fdfdfd" stroke-width="8"');let out='';if(side){for(let i=28;i>0;i-=1)out+=g(span(v,0,0,size,width,'#969794','stroke="#969794" stroke-width="8"'),`translate(${-i} ${i})`);}return g(out+shape,`translate(${x} ${y}) rotate(${rot})`);}
-function outline(v,x,y,size,width,rot=0){return g(span(v,0,0,size,width,'none','stroke="#fff9cf" stroke-width="2.5"'),`translate(${x} ${y}) rotate(${rot})`);}
-function tag(v,x,y,t,vertical=false){const shown=v.slice(0,Math.min(v.length,Math.max(0,Math.ceil(t*36))));if(!shown)return '';const w=22+shown.length*35;return g(`<path d="M0 0H${w}V150H0Z" fill="#3f403c"/>${text(shown,11,120,100,'#fff','font-weight="200" textLength="'+(w-22)+'" lengthAdjust="spacingAndGlyphs"')}`,`translate(${x} ${y}) rotate(${vertical?90:0})`);}
-function glyphs(kind,x,y,width,tilt=0,outlineOnly=false){let shape='';if(kind==='PO'||kind==='OP'){const O=`<path fill-rule="evenodd" d="M0 230C0 80 83 0 247 0S497 77 497 230S414 460 247 460S0 380 0 230ZM126 230C126 303 174 334 247 334S370 303 370 230S321 126 247 126S126 156 126 230Z"/>`;const P=`<path d="M0 0H188Q361 0 361 168Q361 309 188 309H113V460H0V226H182Q249 226 249 167Q249 112 182 112H0Z"/><path d="M0 147H121L73 219Z"/>`;shape=kind==='PO'?g(P,'translate(0 0)')+g(O,'translate(400 0)'):g(O,'translate(0 0)')+g(P,'translate(550 0) rotate(172 155 230)');}else if(kind==='△]O'){shape=`<path d="M0 448L169 30L357 448H0ZM138 327H201L168 216Z" fill-rule="evenodd"/><path d="M441 59H565V448H421V347H464V155H424Z"/><path fill-rule="evenodd" d="M616 244C616 89 708 30 864 30C1019 30 1102 108 1102 244C1102 392 1021 464 864 464C707 464 616 393 616 244ZM737 244C737 316 794 343 864 343C934 343 981 316 981 244C981 177 932 147 864 147C796 147 737 177 737 244Z"/>`;}else{shape=`<path d="M0 25H132L211 152L294 25H426L281 248L426 467H294L211 345L132 467H0L144 248Z"/><path d="M470 46L614 0V131L547 160L614 207V327L551 366L614 403V490L470 446L377 350L467 247L379 146Z"/><path d="M676 28H793L876 273L959 28H1076V476H970V261L900 460H850L780 261V476H676Z"/>`;}
- let total=kind==='PO'||kind==='OP'?930:1105;let scaled=g(shape,`scale(${width/total} ${width/total})`);return g(outlineOnly?g(scaled,'','fill="none" stroke="#fff9cf" stroke-width="2.5"'):g(scaled,'translate(-30 28)','fill="#969794"')+g(scaled,'','fill="#fff"'),`translate(${x} ${y}) rotate(${tilt})`);}
+import {
+  palette as P,
+  background,
+  g,
+  text,
+  serif,
+  track,
+  clamp,
+  ease,
+  mix,
+  alien,
+  handFrame,
+} from '../../core/svg.js';
+const objectSource = await (
+  await fetch(new URL('../../../assets/objects.svg', import.meta.url))
+).text();
+export const chorusDefs =
+  objectSource.match(/<defs>([\s\S]*?)<\/defs>/)[1] +
+  `<filter color-interpolation-filters="sRGB" id="chorusShadow" x="-70%" y="-15%" width="200%" height="160%"><feColorMatrix type="matrix" values="0 0 0 0 .18 0 0 0 0 .19 0 0 0 0 .18 0 0 0 1 0"/></filter>`;
+const span = (v, x, y, size, width, fill = '#fff', attrs = '') =>
+  text(
+    v,
+    x,
+    y,
+    size,
+    fill,
+    `${width ? `textLength="${width}" lengthAdjust="spacingAndGlyphs"` : ''} ${attrs}`,
+  );
+function title(v, x, y, size, width, rot = 0, side = true) {
+  let shape = span(
+    v,
+    0,
+    0,
+    size,
+    width,
+    '#fdfdfd',
+    'paint-order="stroke fill" stroke="#fdfdfd" stroke-width="8"',
+  );
+  let out = '';
+  if (side) {
+    for (let i = 28; i > 0; i -= 1)
+      out += g(
+        span(v, 0, 0, size, width, '#969794', 'stroke="#969794" stroke-width="8"'),
+        `translate(${-i} ${i})`,
+      );
+  }
+  return g(out + shape, `translate(${x} ${y}) rotate(${rot})`);
+}
+function outline(v, x, y, size, width, rot = 0) {
+  return g(
+    span(v, 0, 0, size, width, 'none', 'stroke="#fff9cf" stroke-width="2.5"'),
+    `translate(${x} ${y}) rotate(${rot})`,
+  );
+}
+function tag(v, x, y, t, vertical = false) {
+  const shown = v.slice(0, Math.min(v.length, Math.max(0, Math.ceil(t * 36))));
+  if (!shown) return '';
+  const w = 22 + shown.length * 35;
+  return g(
+    `<path d="M0 0H${w}V150H0Z" fill="#3f403c"/>${text(shown, 11, 120, 100, '#fff', 'font-weight="200" textLength="' + (w - 22) + '" lengthAdjust="spacingAndGlyphs"')}`,
+    `translate(${x} ${y}) rotate(${vertical ? 90 : 0})`,
+  );
+}
+function glyphs(kind, x, y, width, tilt = 0, outlineOnly = false) {
+  let shape = '';
+  if (kind === 'PO' || kind === 'OP') {
+    const O = `<path fill-rule="evenodd" d="M0 230C0 80 83 0 247 0S497 77 497 230S414 460 247 460S0 380 0 230ZM126 230C126 303 174 334 247 334S370 303 370 230S321 126 247 126S126 156 126 230Z"/>`;
+    const P = `<path d="M0 0H188Q361 0 361 168Q361 309 188 309H113V460H0V226H182Q249 226 249 167Q249 112 182 112H0Z"/><path d="M0 147H121L73 219Z"/>`;
+    shape =
+      kind === 'PO'
+        ? g(P, 'translate(0 0)') + g(O, 'translate(400 0)')
+        : g(O, 'translate(0 0)') + g(P, 'translate(550 0) rotate(172 155 230)');
+  } else if (kind === '△]O') {
+    shape = `<path d="M0 448L169 30L357 448H0ZM138 327H201L168 216Z" fill-rule="evenodd"/><path d="M441 59H565V448H421V347H464V155H424Z"/><path fill-rule="evenodd" d="M616 244C616 89 708 30 864 30C1019 30 1102 108 1102 244C1102 392 1021 464 864 464C707 464 616 393 616 244ZM737 244C737 316 794 343 864 343C934 343 981 316 981 244C981 177 932 147 864 147C796 147 737 177 737 244Z"/>`;
+  } else {
+    shape = `<path d="M0 25H132L211 152L294 25H426L281 248L426 467H294L211 345L132 467H0L144 248Z"/><path d="M470 46L614 0V131L547 160L614 207V327L551 366L614 403V490L470 446L377 350L467 247L379 146Z"/><path d="M676 28H793L876 273L959 28H1076V476H970V261L900 460H850L780 261V476H676Z"/>`;
+  }
+  let total = kind === 'PO' || kind === 'OP' ? 930 : 1105;
+  let scaled = g(shape, `scale(${width / total} ${width / total})`);
+  return g(
+    outlineOnly
+      ? g(scaled, '', 'fill="none" stroke="#fff9cf" stroke-width="2.5"')
+      : g(scaled, 'translate(-30 28)', 'fill="#969794"') + g(scaled, '', 'fill="#fff"'),
+    `translate(${x} ${y}) rotate(${tilt})`,
+  );
+}
 
-export {title,outline,tag,glyphs};
+export { title, outline, tag, glyphs };

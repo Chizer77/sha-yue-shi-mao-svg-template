@@ -1,5 +1,5 @@
-export const avatarURL=new URL('../../../assets/ui/message-avatar.png',import.meta.url).href;
-const phoneURL=new URL('../../../assets/props/phone/device.png',import.meta.url).href;
+export const avatarURL = new URL('../../../assets/ui/message-avatar.png', import.meta.url).href;
+const phoneURL = new URL('../../../assets/props/phone/device.png', import.meta.url).href;
 
 export function phoneArtwork() {
   // 将原图外壳左右边界与模板对齐；整图等比缩放，保留挂环和挂绳的原生连接。

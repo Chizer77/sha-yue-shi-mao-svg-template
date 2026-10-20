@@ -1,82 +1,31 @@
 {
-  "assets": [
-    "thinking-portrait",
-    "realization-portrait"
-  ],
+  "assets": ["thinking-portrait", "realization-portrait"],
   "pose_cut": 38.65,
-  "pivot": [
-    914,
-    920
-  ],
+  "pivot": [914, 920],
   "x": [
-    [
-      36.1,
-      0
-    ],
-    [
-      39.2,
-      0
-    ]
+    [36.1, 0],
+    [39.2, 0]
   ],
   "y": [
-    [
-      36.1,
-      0
-    ],
-    [
-      38.85,
-      0
-    ],
-    [
-      39.033333,
-      8
-    ],
-    [
-      39.083333,
-      26
-    ],
-    [
-      39.133333,
-      220
-    ],
-    [
-      39.166667,
-      520
-    ],
-    [
-      39.2,
-      1120
-    ]
+    [36.1, 0],
+    [38.85, 0],
+    [39.033333, 8],
+    [39.083333, 26],
+    [39.133333, 220],
+    [39.166667, 520],
+    [39.2, 1120]
   ],
   "rotation": [
-    [
-      36.1,
-      0
-    ],
-    [
-      39.2,
-      0
-    ]
+    [36.1, 0],
+    [39.2, 0]
   ],
   "confidence": "Measured original-video push-in: 6.408% over 36.10-38.65s about screen centre; removed previous 41px x spike, -12px y kick and rotational kick. Existing expression timing and exit y keys retained.",
   "camera": {
-    "centre": [
-      960,
-      540
-    ],
+    "centre": [960, 540],
     "zoom": [
-      [
-        36.1,
-        1
-      ],
-      [
-        38.65,
-        1.064080150895133
-      ],
-      [
-        39.2,
-        1.064080150895133
-      ]
+      [36.1, 1],
+      [38.65, 1.064080150895133],
+      [39.2, 1.064080150895133]
     ],
     "interpolation": "linear"
   }

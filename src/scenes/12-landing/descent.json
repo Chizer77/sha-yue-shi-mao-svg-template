@@ -1,24 +1,12 @@
 {
-  "frameInterval": [
-    5103,
-    5403
-  ],
+  "frameInterval": [5103, 5403],
   "coordinatePolicy": "Reference feet-to-aperture displacement in design pixels, attached to current UFO aperture. Current UFO/camera movement retained; absolute source positions are not claimed.",
-  "hatchLocal": [
-    -0.691890243902435,
-    135.4502648766328
-  ],
+  "hatchLocal": [-0.691890243902435, 135.4502648766328],
   "hatchMeasurement": {
-    "sourceCentroid": [
-      1078.9089423076923,
-      660.3833653846153
-    ],
+    "sourceCentroid": [1078.9089423076923, 660.3833653846153],
     "method": "Alpha>200 cyan aperture component; existing source-crop-to-local-SVG transform."
   },
-  "initialHiddenRange": [
-    5103,
-    5234
-  ],
+  "initialHiddenRange": [5103, 5234],
   "emergenceUncertainty": "First fine visible margin is within5234–5243; source tiny silhouettes ±2–4px. Before5234 movements are behind the opaque ship and inferred.",
   "passengers": [
     {
@@ -26,71 +14,24 @@
       "file": "assets/characters/protagonist-dark/descent-silhouette.png",
       "width": 1024,
       "height": 1536,
-      "subjectBBox": [
-        201,
-        32,
-        822,
-        1503
-      ],
+      "subjectBBox": [201, 32, 822, 1503],
       "displayHeight": 64,
       "offsetX": -50,
       "feetOffsetKeys": [
-        [
-          5103,
-          0
-        ],
-        [
-          5225,
-          0
-        ],
-        [
-          5234,
-          28.2
-        ],
-        [
-          5240,
-          33.21
-        ],
-        [
-          5250,
-          40.51
-        ],
-        [
-          5260,
-          46.87
-        ],
-        [
-          5280,
-          58.1
-        ],
-        [
-          5300,
-          71.25
-        ],
-        [
-          5319,
-          86.41
-        ],
-        [
-          5340,
-          110.25
-        ],
-        [
-          5360,
-          136.97
-        ],
-        [
-          5380,
-          161.78
-        ],
-        [
-          5400,
-          184.6
-        ],
-        [
-          5402,
-          186.99
-        ]
+        [5103, 0],
+        [5225, 0],
+        [5234, 28.2],
+        [5240, 33.21],
+        [5250, 40.51],
+        [5260, 46.87],
+        [5280, 58.1],
+        [5300, 71.25],
+        [5319, 86.41],
+        [5340, 110.25],
+        [5360, 136.97],
+        [5380, 161.78],
+        [5400, 184.6],
+        [5402, 186.99]
       ],
       "character": "棕衣主角"
     },
@@ -99,71 +40,24 @@
       "file": "assets/characters/assistant/descent-silhouette.png",
       "width": 1024,
       "height": 1536,
-      "subjectBBox": [
-        132,
-        29,
-        892,
-        1498
-      ],
+      "subjectBBox": [132, 29, 892, 1498],
       "displayHeight": 64,
       "offsetX": 50,
       "feetOffsetKeys": [
-        [
-          5103,
-          0
-        ],
-        [
-          5225,
-          0
-        ],
-        [
-          5234,
-          28.2
-        ],
-        [
-          5240,
-          29.21
-        ],
-        [
-          5250,
-          36.51
-        ],
-        [
-          5260,
-          42.87
-        ],
-        [
-          5280,
-          54.1
-        ],
-        [
-          5300,
-          65.25
-        ],
-        [
-          5319,
-          82.41
-        ],
-        [
-          5340,
-          106.25
-        ],
-        [
-          5360,
-          132.97
-        ],
-        [
-          5380,
-          157.78
-        ],
-        [
-          5400,
-          182.6
-        ],
-        [
-          5402,
-          184.99
-        ]
+        [5103, 0],
+        [5225, 0],
+        [5234, 28.2],
+        [5240, 29.21],
+        [5250, 36.51],
+        [5260, 42.87],
+        [5280, 54.1],
+        [5300, 65.25],
+        [5319, 82.41],
+        [5340, 106.25],
+        [5360, 132.97],
+        [5380, 157.78],
+        [5400, 182.6],
+        [5402, 184.99]
       ],
       "character": "小主角"
     }

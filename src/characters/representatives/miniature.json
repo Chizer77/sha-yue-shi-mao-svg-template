@@ -1,32 +1,18 @@
 {
-  "frameInterval": [
-    6259,
-    6348
-  ],
+  "frameInterval": [6259, 6348],
   "restoredGroup": {
     "file": "assets/characters/representatives/explaining-group.png",
-    "nativeSize": [
-      1536,
-      1024
-    ],
+    "nativeSize": [1536, 1024],
     "world": {
       "x": 1030,
       "y": 620,
       "width": 730,
       "height": 460
     },
-    "includes": [
-      "三位短发人类",
-      "左中开口",
-      "右侧微笑与伸手",
-      "橙色问号"
-    ],
+    "includes": ["三位短发人类", "左中开口", "右侧微笑与伸手", "橙色问号"],
     "faceSticker": {
       "file": "assets/characters/representatives/eye-sticker.png",
-      "center": [
-        1220,
-        245
-      ],
+      "center": [1220, 245],
       "width": 350,
       "height": 85.6687898089172,
       "rotation": -7

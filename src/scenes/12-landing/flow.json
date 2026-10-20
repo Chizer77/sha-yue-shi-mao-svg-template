@@ -1,8 +1,5 @@
 {
-  "frameInterval": [
-    5103,
-    5403
-  ],
+  "frameInterval": [5103, 5403],
   "activeStartFrame": 5158,
   "fullOpacityFrame": 5178,
   "coordinateSystem": "Final 1920x1080 screen pixels; speeds in pixels per second relative to current hatch",
@@ -186,68 +183,31 @@
   "stepFrames": 3,
   "groundOcclusion": {
     "sourceSHA256": "5f35c16d1969c2f5a06ac634acecdc2afe31ab9abcde4bc3417a099e1cf0c80b",
-    "sourceSize": [
-      2160,
-      1215
-    ],
+    "sourceSize": [2160, 1215],
     "designScale": 0.8888888888888888,
-    "roi": [
-      940,
-      880,
-      1240,
-      1030
-    ],
-    "referenceRGB": [
-      67,
-      68,
-      86
-    ],
+    "roi": [940, 880, 1240, 1030],
+    "referenceRGB": [67, 68, 86],
     "maxChannelTolerance": 12,
     "dilationPixels": 1,
     "components": [
       {
-        "bbox": [
-          1174,
-          897,
-          1226,
-          1010
-        ],
+        "bbox": [1174, 897, 1226, 1010],
         "pixels": 4229
       },
       {
-        "bbox": [
-          981,
-          902,
-          1018,
-          1009
-        ],
+        "bbox": [981, 902, 1018, 1009],
         "pixels": 3049
       },
       {
-        "bbox": [
-          1037,
-          906,
-          1074,
-          1008
-        ],
+        "bbox": [1037, 906, 1074, 1008],
         "pixels": 2572
       },
       {
-        "bbox": [
-          1125,
-          906,
-          1167,
-          1004
-        ],
+        "bbox": [1125, 906, 1167, 1004],
         "pixels": 3070
       },
       {
-        "bbox": [
-          1081,
-          911,
-          1123,
-          1009
-        ],
+        "bbox": [1081, 911, 1123, 1009],
         "pixels": 2964
       }
     ],

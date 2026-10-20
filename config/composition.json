@@ -14,13 +14,7 @@
       "start_frame": 0,
       "end_frame": 781,
       "directory": "src/sequences/chorus",
-      "previewFrames": [
-        120,
-        300,
-        360,
-        480,
-        660
-      ],
+      "previewFrames": [120, 300, 360, 480, 660],
       "thumbnailFrame": 120
     },
     {
@@ -32,10 +26,7 @@
       "start_frame": 781,
       "end_frame": 1191,
       "directory": "src/scenes/02-phone",
-      "previewFrames": [
-        930,
-        1128
-      ],
+      "previewFrames": [930, 1128],
       "thumbnailFrame": 930
     },
     {
@@ -48,10 +39,7 @@
       "end_frame": 1418,
       "transition_note": "新床角1191，人物1199，旧手机直到20.15；两镜头实际重叠横移。",
       "directory": "src/scenes/03-bed",
-      "previewFrames": [
-        1260,
-        1380
-      ],
+      "previewFrames": [1260, 1380],
       "thumbnailFrame": 1260
     },
     {
@@ -64,10 +52,7 @@
       "end_frame": 1601,
       "transition_note": "树首露约1418（±2帧），披上伪装1424；床残留至24.15。",
       "directory": "src/scenes/04-tree",
-      "previewFrames": [
-        1500,
-        1584
-      ],
+      "previewFrames": [1500, 1584],
       "thumbnailFrame": 1500
     },
     {
@@ -79,11 +64,7 @@
       "start_frame": 1601,
       "end_frame": 2166,
       "directory": "src/scenes/05-photos",
-      "previewFrames": [
-        1710,
-        1860,
-        2040
-      ],
+      "previewFrames": [1710, 1860, 2040],
       "thumbnailFrame": 1710
     },
     {
@@ -95,10 +76,7 @@
       "start_frame": 2166,
       "end_frame": 2352,
       "directory": "src/scenes/06-thinking",
-      "previewFrames": [
-        2220,
-        2310
-      ],
+      "previewFrames": [2220, 2310],
       "thumbnailFrame": 2220
     },
     {
@@ -111,12 +89,7 @@
       "start_frame": 2352,
       "end_frame": 3078,
       "directory": "src/sequences/chorus",
-      "previewFrames": [
-        2460,
-        2690,
-        2810,
-        2980
-      ],
+      "previewFrames": [2460, 2690, 2810, 2980],
       "thumbnailFrame": 2460
     },
     {
@@ -129,11 +102,7 @@
       "end_frame": 3950,
       "transition_note": "CRT第一条白线3078，窗口第一内容3091；前镜头闭眼角色继续到51.8。",
       "directory": "src/scenes/08-meow-choir",
-      "previewFrames": [
-        3240,
-        3480,
-        3780
-      ],
+      "previewFrames": [3240, 3480, 3780],
       "thumbnailFrame": 3240
     },
     {
@@ -145,10 +114,7 @@
       "start_frame": 3950,
       "end_frame": 4340,
       "directory": "src/scenes/09-objects",
-      "previewFrames": [
-        4080,
-        4230
-      ],
+      "previewFrames": [4080, 4230],
       "thumbnailFrame": 4080
     },
     {
@@ -160,11 +126,7 @@
       "start_frame": 4340,
       "end_frame": 4697,
       "directory": "src/scenes/10-typography",
-      "previewFrames": [
-        4380,
-        4530,
-        4650
-      ],
+      "previewFrames": [4380, 4530, 4650],
       "thumbnailFrame": 4380
     },
     {
@@ -176,9 +138,7 @@
       "start_frame": 4697,
       "end_frame": 4900,
       "directory": "src/scenes/11-lab",
-      "previewFrames": [
-        4800
-      ],
+      "previewFrames": [4800],
       "thumbnailFrame": 4800
     },
     {
@@ -190,10 +150,7 @@
       "start_frame": 4900,
       "end_frame": 5403,
       "directory": "src/scenes/12-landing",
-      "previewFrames": [
-        4980,
-        5280
-      ],
+      "previewFrames": [4980, 5280],
       "thumbnailFrame": 4980
     },
     {
@@ -205,12 +162,7 @@
       "start_frame": 5403,
       "end_frame": 6168,
       "directory": "src/scenes/13-encounter",
-      "previewFrames": [
-        5460,
-        5600,
-        5820,
-        6080
-      ],
+      "previewFrames": [5460, 5600, 5820, 6080],
       "thumbnailFrame": 5460
     },
     {
@@ -223,10 +175,7 @@
       "end_frame": 6330,
       "transition_note": "棒首次进入约102.8（±2帧）；下一硬切6259=104.316667。",
       "directory": "src/scenes/14-tomato-wand",
-      "previewFrames": [
-        6230,
-        6310
-      ],
+      "previewFrames": [6230, 6310],
       "thumbnailFrame": 6230
     },
     {
@@ -240,12 +189,7 @@
       "end_frame": 7120,
       "transition_note": "第三次人字首露6330，比统一副歌偏移公式提前12帧；原解释镜头背景仍参与退场。",
       "directory": "src/sequences/chorus",
-      "previewFrames": [
-        6480,
-        6680,
-        6810,
-        7020
-      ],
+      "previewFrames": [6480, 6680, 6810, 7020],
       "thumbnailFrame": 6480
     },
     {
@@ -257,12 +201,7 @@
       "start_frame": 7120,
       "end_frame": 7967,
       "directory": "src/scenes/16-credits",
-      "previewFrames": [
-        7320,
-        7640,
-        7780,
-        7875
-      ],
+      "previewFrames": [7320, 7640, 7780, 7875],
       "thumbnailFrame": 7320
     }
   ],

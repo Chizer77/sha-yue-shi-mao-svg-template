@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "format": "prettier . --write",
+    "format:check": "prettier . --check",
     "start": "node scripts/dev/server.mjs",
     "render": "node scripts/export/video.mjs",
     "overview": "node scripts/build-previews/overview.mjs",
@@ -16,7 +18,8 @@
   },
   "devDependencies": {
     "playwright": "1.62.1",
-    "sharp": "0.35.5"
+    "sharp": "0.35.5",
+    "prettier": "3.9.10"
   },
   "engines": {
     "node": ">=20.9.0"
