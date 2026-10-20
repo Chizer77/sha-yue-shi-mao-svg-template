@@ -2,4722 +2,3009 @@
   "assets": [
     {
       "file": "assets/characters/protagonist-light/point-body.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\point-body",
       "label": "浅色服装主角 · 指人身体",
       "group": "assets/characters/protagonist-light/point-body.png",
       "category": "人物",
-      "size": [
-        1536,
-        1024
-      ]
+      "size": [1536, 1024]
     },
     {
       "file": "assets/characters/protagonist-light/point-arm.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\point-arm",
       "label": "浅色服装主角 · 指人手臂",
       "group": "assets/characters/protagonist-light/point-arm.png",
       "category": "人物",
-      "size": [
-        1536,
-        1024
-      ]
+      "size": [1536, 1024]
     },
     {
       "file": "assets/characters/protagonist-light/point-hair-overlay.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\point-hair-overlay",
       "label": "浅色服装主角 · 指人前发遮挡",
       "group": "assets/characters/protagonist-light/point-hair-overlay.png",
       "category": "人物",
-      "size": [
-        1536,
-        1024
-      ]
+      "size": [1536, 1024]
     },
     {
       "file": "assets/characters/aliens/alien.png",
-      "stages": [
-        1,
-        7,
-        8
-      ],
+      "stages": [1, 7, 8],
       "id": "assets\\characters\\aliens\\alien",
       "label": "外星人",
       "group": "assets/characters/aliens/alien.png",
       "category": "人物",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [3840, 2160]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-000.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-000",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-001.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-001",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-002.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-002",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-003.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-003",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-004.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-004",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-005.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-005",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-006.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-006",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-007.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-007",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-008.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-008",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-009.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-009",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-010.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-010",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-011.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-011",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-012.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-012",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-013.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-013",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-014.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-014",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-015.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-015",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-016.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-016",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-017.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-017",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-018.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-018",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-019.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-019",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-020.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-020",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-021.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-021",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-022.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-022",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-023.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-023",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-024.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-024",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-025.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-025",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-026.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-026",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-027.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-027",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-028.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-028",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-029.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-029",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-030.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-030",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-031.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-031",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-032.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-032",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-033.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-033",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-034.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-034",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-035.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-035",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-036.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-036",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-037.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-037",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-038.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-038",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-039.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-039",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-040.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-040",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-041.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-041",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-042.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-042",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-043.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-043",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-044.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-044",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-045.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-045",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-046.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-046",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-047.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-047",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-048.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-048",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-049.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-049",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-050.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-050",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-051.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-051",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-052.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-052",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-053.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-053",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-054.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-054",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-055.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-055",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-056.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-056",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-057.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-057",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-058.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-058",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-059.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-059",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-060.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-060",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-061.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-061",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-062.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-062",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-063.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-063",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-064.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-064",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-065.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-065",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-066.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-066",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-067.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-067",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-068.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-068",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-069.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-069",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-070.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-070",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-071.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-071",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-072.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-072",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-073.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-073",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-074.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-074",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-075.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-075",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-076.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-076",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-077.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-077",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-078.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-078",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-079.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-079",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-080.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-080",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-081.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-081",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-082.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-082",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-083.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-083",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-084.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-084",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/folded-arms.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\folded-arms",
       "label": "浅色服装主角 · 抱臂表情",
       "group": "assets/characters/protagonist-light/folded-arms.png",
       "category": "人物",
-      "size": [
-        1664,
-        1536
-      ]
+      "size": [1664, 1536]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-085.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-085",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-086.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-086",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-087.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-087",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-088.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-088",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-089.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-089",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-090.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-090",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-091.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-091",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-092.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-092",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-093.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-093",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-094.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-094",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-095.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-095",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-096.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-096",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-097.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-097",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-098.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-098",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-099.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-099",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-100.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-100",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-101.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-101",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-102.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-102",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-103.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-103",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-104.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-104",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-105.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-105",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-106.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-106",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-107.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-107",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-108.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-108",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-109.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-109",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-110.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-110",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-111.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-111",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-112.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-112",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-113.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-113",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-114.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-114",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-115.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-115",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-116.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-116",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-117.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-117",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/characters/protagonist-light/dialogue/frame-118.png",
-      "stages": [
-        1
-      ],
+      "stages": [1],
       "id": "assets\\characters\\protagonist-light\\dialogue\\frame-118",
       "label": "浅色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-light/dialogue",
       "category": "人物",
-      "size": [
-        600,
-        900
-      ]
+      "size": [600, 900]
     },
     {
       "file": "assets/props/phone/device.png",
-      "stages": [
-        2,
-        3
-      ],
+      "stages": [2, 3],
       "id": "assets\\props\\phone\\device",
       "label": "手机",
       "group": "assets/props/phone/device.png",
       "category": "道具",
-      "size": [
-        1254,
-        1254
-      ]
+      "size": [1254, 1254]
     },
     {
       "file": "assets/ui/message-avatar.png",
-      "stages": [
-        2,
-        3
-      ],
+      "stages": [2, 3],
       "id": "assets\\ui\\message-avatar",
       "label": "消息头像",
       "group": "assets/ui/message-avatar.png",
       "category": "道具",
-      "size": [
-        162,
-        162
-      ]
+      "size": [162, 162]
     },
     {
       "file": "assets/props/phone/hand.png",
-      "stages": [
-        2,
-        3
-      ],
+      "stages": [2, 3],
       "id": "assets\\props\\phone\\hand",
       "label": "持手机手部",
       "group": "assets/props/phone/hand.png",
       "category": "道具",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [3840, 2160]
     },
     {
       "file": "assets/characters/protagonist-light/sleeping.png",
-      "stages": [
-        2,
-        3
-      ],
+      "stages": [2, 3],
       "id": "assets\\characters\\protagonist-light\\sleeping",
       "label": "浅色服装主角 · 困倦表情",
       "group": "assets/characters/protagonist-light/sleeping.png",
       "category": "人物",
-      "size": [
-        1086,
-        1448
-      ]
+      "size": [1086, 1448]
     },
     {
       "file": "assets/characters/protagonist-light/sighing.png",
-      "stages": [
-        3,
-        4
-      ],
+      "stages": [3, 4],
       "id": "assets\\characters\\protagonist-light\\sighing",
       "label": "浅色服装主角 · 叹气表情",
       "group": "assets/characters/protagonist-light/sighing.png",
       "category": "人物",
-      "size": [
-        1086,
-        1448
-      ]
+      "size": [1086, 1448]
     },
     {
       "file": "assets/characters/protagonist-dark/tree-peek.png",
-      "stages": [
-        4,
-        5
-      ],
+      "stages": [4, 5],
       "id": "assets\\characters\\protagonist-dark\\tree-peek",
       "label": "深色服装主角 · 树后探头",
       "group": "assets/characters/protagonist-dark/tree-peek.png",
       "category": "人物",
-      "size": [
-        1254,
-        1254
-      ]
+      "size": [1254, 1254]
     },
     {
       "file": "assets/props/photos/backdrop.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\props\\photos\\backdrop",
       "label": "后排照片",
       "group": "assets/props/photos/backdrop.png",
       "category": "道具",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [3840, 2160]
     },
     {
       "file": "assets/props/photos/city-frame.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\props\\photos\\city-frame",
       "label": "城市相框",
       "group": "assets/props/photos/city-frame.png",
       "category": "道具",
-      "size": [
-        1448,
-        1086
-      ]
+      "size": [1448, 1086]
     },
     {
       "file": "assets/backgrounds/city.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\backgrounds\\city",
       "label": "城市背景",
       "group": "assets/backgrounds/city.png",
       "category": "背景",
-      "size": [
-        1024,
-        720
-      ]
+      "size": [1024, 720]
     },
     {
       "file": "assets/characters/pedestrians/small.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\characters\\pedestrians\\small",
       "label": "small",
       "group": "assets/characters/pedestrians/small.png",
       "category": "人物",
-      "size": [
-        636,
-        1274
-      ]
+      "size": [636, 1274]
     },
     {
       "file": "assets/characters/pedestrians/right.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\characters\\pedestrians\\right",
       "label": "right",
       "group": "assets/characters/pedestrians/right.png",
       "category": "人物",
-      "size": [
-        331,
-        1338
-      ]
+      "size": [331, 1338]
     },
     {
       "file": "assets/characters/pedestrians/left.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\characters\\pedestrians\\left",
       "label": "left",
       "group": "assets/characters/pedestrians/left.png",
       "category": "人物",
-      "size": [
-        752,
-        1432
-      ]
+      "size": [752, 1432]
     },
     {
       "file": "assets/characters/pedestrians/student.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\characters\\pedestrians\\student",
       "label": "城市路人",
       "group": "assets/characters/pedestrians/student.png",
       "category": "人物",
-      "size": [
-        472,
-        1224
-      ]
+      "size": [472, 1224]
     },
     {
       "file": "assets/props/shrubbery.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\props\\shrubbery",
       "label": "前景灌木",
       "group": "assets/props/shrubbery.png",
       "category": "道具",
-      "size": [
-        1024,
-        720
-      ]
+      "size": [1024, 720]
     },
     {
       "file": "assets/props/photos/rope.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\props\\photos\\rope",
       "label": "照片挂绳",
       "group": "assets/props/photos/rope.png",
       "category": "道具",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [3840, 2160]
     },
     {
       "file": "assets/props/photos/train-frame.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\props\\photos\\train-frame",
       "label": "车厢相框",
       "group": "assets/props/photos/train-frame.png",
       "category": "道具",
-      "size": [
-        1491,
-        1055
-      ]
+      "size": [1491, 1055]
     },
     {
       "file": "assets/backgrounds/train-passengers.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\backgrounds\\train-passengers",
       "label": "车厢画面",
       "group": "assets/backgrounds/train-passengers.png",
       "category": "背景",
-      "size": [
-        1024,
-        720
-      ]
+      "size": [1024, 720]
     },
     {
       "file": "assets/props/photos/road-frame.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\props\\photos\\road-frame",
       "label": "道路相框",
       "group": "assets/props/photos/road-frame.png",
       "category": "道具",
-      "size": [
-        1531,
-        1027
-      ]
+      "size": [1531, 1027]
     },
     {
       "file": "assets/backgrounds/crosswalk.png",
-      "stages": [
-        5
-      ],
+      "stages": [5],
       "id": "assets\\backgrounds\\crosswalk",
       "label": "斑马线画面",
       "group": "assets/backgrounds/crosswalk.png",
       "category": "背景",
-      "size": [
-        1024,
-        720
-      ]
+      "size": [1024, 720]
     },
     {
       "file": "assets/characters/protagonist-dark/thinking.png",
-      "stages": [
-        6
-      ],
+      "stages": [6],
       "id": "assets\\characters\\protagonist-dark\\thinking",
       "label": "深色服装主角 · 思考表情",
       "group": "assets/characters/protagonist-dark/thinking.png",
       "category": "人物",
-      "size": [
-        1086,
-        1448
-      ]
+      "size": [1086, 1448]
     },
     {
       "file": "assets/characters/protagonist-dark/realization.png",
-      "stages": [
-        6
-      ],
+      "stages": [6],
       "id": "assets\\characters\\protagonist-dark\\realization",
       "label": "深色服装主角 · 醒悟表情",
       "group": "assets/characters/protagonist-dark/realization.png",
       "category": "人物",
-      "size": [
-        1086,
-        1448
-      ]
+      "size": [1086, 1448]
     },
     {
       "file": "assets/props/idea-bulb.png",
-      "stages": [
-        6
-      ],
+      "stages": [6],
       "id": "assets\\props\\idea-bulb",
       "label": "灵感灯泡",
       "group": "assets/props/idea-bulb.png",
       "category": "道具",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [3840, 2160]
     },
     {
       "file": "assets/characters/protagonist-dark/point-body.png",
-      "stages": [
-        7,
-        15
-      ],
+      "stages": [7, 15],
       "id": "assets\\characters\\protagonist-dark\\point-body",
       "label": "深色服装主角 · 指人身体",
       "group": "assets/characters/protagonist-dark/point-body.png",
       "category": "人物",
-      "size": [
-        1536,
-        1024
-      ]
+      "size": [1536, 1024]
     },
     {
       "file": "assets/characters/protagonist-dark/point-arm.png",
-      "stages": [
-        7,
-        15
-      ],
+      "stages": [7, 15],
       "id": "assets\\characters\\protagonist-dark\\point-arm",
       "label": "深色服装主角 · 指人手臂",
       "group": "assets/characters/protagonist-dark/point-arm.png",
       "category": "人物",
-      "size": [
-        1536,
-        1024
-      ]
+      "size": [1536, 1024]
     },
     {
       "file": "assets/characters/protagonist-dark/point-hair-overlay.png",
-      "stages": [
-        7,
-        15
-      ],
+      "stages": [7, 15],
       "id": "assets\\characters\\protagonist-dark\\point-hair-overlay",
       "label": "深色服装主角 · 指人前发遮挡",
       "group": "assets/characters/protagonist-dark/point-hair-overlay.png",
       "category": "人物",
-      "size": [
-        1536,
-        1024
-      ]
+      "size": [1536, 1024]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-000.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-000",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-001.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-001",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-002.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-002",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-003.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-003",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-004.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-004",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-005.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-005",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-006.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-006",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-007.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-007",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-008.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-008",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-009.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-009",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-010.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-010",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-011.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-011",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-012.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-012",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-013.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-013",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-014.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-014",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-015.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-015",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-016.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-016",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-017.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-017",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-018.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-018",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-019.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-019",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-020.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-020",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-021.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-021",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-022.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-022",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-023.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-023",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-024.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-024",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-025.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-025",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-026.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-026",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-027.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-027",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-028.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-028",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-029.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-029",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-030.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-030",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-031.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-031",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-032.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-032",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-033.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-033",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-034.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-034",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-035.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-035",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-036.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-036",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-037.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-037",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-038.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-038",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-039.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-039",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-040.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-040",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-041.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-041",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-042.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-042",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-043.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-043",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-044.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-044",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-045.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-045",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-046.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-046",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-047.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-047",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-048.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-048",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-049.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-049",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-050.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-050",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-051.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-051",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-052.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-052",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-053.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-053",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-054.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-054",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-055.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-055",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-056.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-056",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-057.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-057",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-058.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-058",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-059.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-059",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-060.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-060",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-061.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-061",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-062.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-062",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-063.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-063",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-064.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-064",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-065.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-065",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-066.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-066",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-067.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-067",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-068.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-068",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-069.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-069",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-070.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-070",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-071.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-071",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-072.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-072",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-073.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-073",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-074.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-074",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-075.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-075",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-076.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-076",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-077.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-077",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-078.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-078",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-079.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-079",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-080.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-080",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-081.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-081",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-082.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-082",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-083.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-083",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-084.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-084",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-085.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-085",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-086.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-086",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-087.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-087",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-088.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-088",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-089.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-089",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-090.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-090",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-091.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-091",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-092.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-092",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-093.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-093",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/folded-arms.png",
-      "stages": [
-        7,
-        8,
-        15
-      ],
+      "stages": [7, 8, 15],
       "id": "assets\\characters\\protagonist-dark\\folded-arms",
       "label": "深色服装主角 · 抱臂表情",
       "group": "assets/characters/protagonist-dark/folded-arms.png",
       "category": "人物",
-      "size": [
-        1664,
-        1536
-      ]
+      "size": [1664, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-094.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-094",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-095.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-095",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-096.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-096",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-097.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-097",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-098.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-098",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-099.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-099",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-100.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-100",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-101.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-101",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-102.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-102",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-103.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-103",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-104.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-104",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-105.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-105",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-106.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-106",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-107.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-107",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-108.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-108",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-109.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-109",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-110.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-110",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-111.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-111",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-112.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-112",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-113.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-113",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-114.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-114",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-115.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-115",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-116.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-116",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-117.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-117",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-118.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-118",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/dialogue/frame-119.png",
-      "stages": [
-        7
-      ],
+      "stages": [7],
       "id": "assets\\characters\\protagonist-dark\\dialogue\\frame-119",
       "label": "深色服装主角 · 对话动画",
       "group": "assets/characters/protagonist-dark/dialogue",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/choir/center-closed.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\choir\\center-closed",
       "label": "合唱角色 · center",
       "group": "assets/characters/choir/center",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/choir/left-closed.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\choir\\left-closed",
       "label": "合唱角色 · left",
       "group": "assets/characters/choir/left",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/choir/inner-left-closed.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\choir\\inner-left-closed",
       "label": "合唱角色 · inner-left",
       "group": "assets/characters/choir/inner-left",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/choir/inner-right-open.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\choir\\inner-right-open",
       "label": "合唱角色 · inner-right",
       "group": "assets/characters/choir/inner-right",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/choir/right-open.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\choir\\right-open",
       "label": "合唱角色 · right",
       "group": "assets/characters/choir/right",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/choir/inner-right-closed.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\choir\\inner-right-closed",
       "label": "合唱角色 · inner-right",
       "group": "assets/characters/choir/inner-right",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/choir/right-closed.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\choir\\right-closed",
       "label": "合唱角色 · right",
       "group": "assets/characters/choir/right",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/choir/left-open.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\choir\\left-open",
       "label": "合唱角色 · left",
       "group": "assets/characters/choir/left",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/choir/inner-left-open.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\choir\\inner-left-open",
       "label": "合唱角色 · inner-left",
       "group": "assets/characters/choir/inner-left",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/choir-spectator.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\protagonist-dark\\choir-spectator",
       "label": "深色服装主角 · 旁观姿态",
       "group": "assets/characters/protagonist-dark/choir-spectator.png",
       "category": "人物",
-      "size": [
-        941,
-        908
-      ]
+      "size": [941, 908]
     },
     {
       "file": "assets/characters/choir/center-open.png",
-      "stages": [
-        8
-      ],
+      "stages": [8],
       "id": "assets\\characters\\choir\\center-open",
       "label": "合唱角色 · center",
       "group": "assets/characters/choir/center",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/props/food/noodles.png",
-      "stages": [
-        9
-      ],
+      "stages": [9],
       "id": "assets\\props\\food\\noodles",
       "label": "泡面",
       "group": "assets/props/food/noodles.png",
       "category": "道具",
-      "size": [
-        1254,
-        1254
-      ]
+      "size": [1254, 1254]
     },
     {
       "file": "assets/props/food/snack.png",
-      "stages": [
-        9
-      ],
+      "stages": [9],
       "id": "assets\\props\\food\\snack",
       "label": "零食",
       "group": "assets/props/food/snack.png",
       "category": "道具",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/props/food/can.png",
-      "stages": [
-        9
-      ],
+      "stages": [9],
       "id": "assets\\props\\food\\can",
       "label": "罐头",
       "group": "assets/props/food/can.png",
       "category": "道具",
-      "size": [
-        1663,
-        946
-      ]
+      "size": [1663, 946]
     },
     {
       "file": "assets/props/food/cat-treat.png",
-      "stages": [
-        9
-      ],
+      "stages": [9],
       "id": "assets\\props\\food\\cat-treat",
       "label": "猫条",
       "group": "assets/props/food/cat-treat.png",
       "category": "道具",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [3840, 2160]
     },
     {
       "file": "assets/props/food/yarn-ball.png",
-      "stages": [
-        9
-      ],
+      "stages": [9],
       "id": "assets\\props\\food\\yarn-ball",
       "label": "毛线球",
       "group": "assets/props/food/yarn-ball.png",
       "category": "道具",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [3840, 2160]
     },
     {
       "file": "assets/backgrounds/lab-wall.png",
-      "stages": [
-        11,
-        16
-      ],
+      "stages": [11, 16],
       "id": "assets\\backgrounds\\lab-wall",
-      "label": "室内背景",
+      "label": "实验室背景（含扩展边缘）",
       "group": "assets/backgrounds/lab-wall.png",
       "category": "背景",
-      "size": [
-        4864,
-        3184
-      ]
-    },
-    {
-      "file": "assets/backgrounds/lab-board.png",
-      "stages": [
-        11,
-        16
-      ],
-      "id": "assets\\backgrounds\\lab-board",
-      "label": "黑板背景",
-      "group": "assets/backgrounds/lab-board.png",
-      "category": "背景",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [4864, 3184]
     },
     {
       "file": "assets/characters/protagonist-dark/lab-standing.png",
-      "stages": [
-        11,
-        16
-      ],
+      "stages": [11, 16],
       "id": "assets\\characters\\protagonist-dark\\lab-standing",
       "label": "深色服装主角 · 站立姿态",
       "group": "assets/characters/protagonist-dark/lab-standing.png",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/assistant/lab-standing.png",
-      "stages": [
-        11,
-        16
-      ],
+      "stages": [11, 16],
       "id": "assets\\characters\\assistant\\lab-standing",
       "label": "助手 · 站立姿态",
       "group": "assets/characters/assistant/lab-standing.png",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/audience.png",
-      "stages": [
-        11,
-        16
-      ],
+      "stages": [11, 16],
       "id": "assets\\characters\\audience",
       "label": "观众群像",
       "group": "assets/characters/audience.png",
       "category": "人物",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [3840, 2160]
     },
     {
       "file": "assets/props/lab-table.png",
-      "stages": [
-        11,
-        16
-      ],
+      "stages": [11, 16],
       "id": "assets\\props\\lab-table",
       "label": "桌子",
       "group": "assets/props/lab-table.png",
       "category": "道具",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [3840, 2160]
     },
     {
       "file": "assets/backgrounds/planet.png",
-      "stages": [
-        12,
-        16
-      ],
+      "stages": [12, 16],
       "id": "assets\\backgrounds\\planet",
       "label": "地球背景",
       "group": "assets/backgrounds/planet.png",
       "category": "背景",
-      "size": [
-        2160,
-        1215
-      ]
+      "size": [2160, 1215]
     },
     {
       "file": "assets/props/spacecraft.png",
-      "stages": [
-        12
-      ],
+      "stages": [12],
       "id": "assets\\props\\spacecraft",
       "label": "飞碟",
       "group": "assets/props/spacecraft.png",
       "category": "道具",
-      "size": [
-        2160,
-        1215
-      ]
+      "size": [2160, 1215]
     },
     {
       "file": "assets/backgrounds/landing-field.png",
-      "stages": [
-        12
-      ],
+      "stages": [12],
       "id": "assets\\backgrounds\\landing-field",
       "label": "降落场地",
       "group": "assets/backgrounds/landing-field.png",
       "category": "背景",
-      "size": [
-        2160,
-        1215
-      ]
+      "size": [2160, 1215]
     },
     {
       "file": "assets/characters/protagonist-dark/descent-silhouette.png",
-      "stages": [
-        12
-      ],
+      "stages": [12],
       "id": "assets\\characters\\protagonist-dark\\descent-silhouette",
       "label": "深色服装主角 · 降落剪影",
       "group": "assets/characters/protagonist-dark/descent-silhouette.png",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/assistant/descent-silhouette.png",
-      "stages": [
-        12
-      ],
+      "stages": [12],
       "id": "assets\\characters\\assistant\\descent-silhouette",
       "label": "助手 · 降落剪影",
       "group": "assets/characters/assistant/descent-silhouette.png",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/backgrounds/meadow.png",
-      "stages": [
-        13,
-        14,
-        15
-      ],
+      "stages": [13, 14, 15],
       "id": "assets\\backgrounds\\meadow",
       "label": "草地背景",
       "group": "assets/backgrounds/meadow.png",
       "category": "背景",
-      "size": [
-        2160,
-        1215
-      ]
+      "size": [2160, 1215]
     },
     {
       "file": "assets/characters/aliens/silhouette-left.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\aliens\\silhouette-left",
       "label": "silhouette left",
       "group": "assets/characters/aliens/silhouette-left.png",
       "category": "人物",
-      "size": [
-        2160,
-        1215
-      ]
+      "size": [2160, 1215]
     },
     {
       "file": "assets/characters/aliens/silhouette-right.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\aliens\\silhouette-right",
       "label": "silhouette right",
       "group": "assets/characters/aliens/silhouette-right.png",
       "category": "人物",
-      "size": [
-        2160,
-        1215
-      ]
+      "size": [2160, 1215]
     },
     {
       "file": "assets/characters/assistant/side-view.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\assistant\\side-view",
       "label": "助手 · 侧面姿态",
       "group": "assets/characters/assistant/side-view.png",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/protagonist-dark/side-view.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\side-view",
       "label": "深色服装主角 · 侧面姿态",
       "group": "assets/characters/protagonist-dark/side-view.png",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/representatives/left.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\representatives\\left",
       "label": "left",
       "group": "assets/characters/representatives/left.png",
       "category": "人物",
-      "size": [
-        1088,
-        1445
-      ]
+      "size": [1088, 1445]
     },
     {
       "file": "assets/characters/representatives/speaker.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\representatives\\speaker",
       "label": "发言代表",
       "group": "assets/characters/representatives/speaker.png",
       "category": "人物",
-      "size": [
-        1122,
-        1402
-      ]
+      "size": [1122, 1402]
     },
     {
       "file": "assets/characters/representatives/eye-sticker.png",
-      "stages": [
-        13,
-        14,
-        15
-      ],
+      "stages": [13, 14, 15],
       "id": "assets\\characters\\representatives\\eye-sticker",
       "label": "眼部贴图",
       "group": "assets/characters/representatives/eye-sticker.png",
       "category": "人物",
-      "size": [
-        1099,
-        269
-      ]
+      "size": [1099, 269]
     },
     {
       "file": "assets/characters/representatives/right.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\representatives\\right",
       "label": "right",
       "group": "assets/characters/representatives/right.png",
       "category": "人物",
-      "size": [
-        1088,
-        1446
-      ]
+      "size": [1088, 1446]
     },
     {
       "file": "assets/characters/protagonist-dark/back-view.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\back-view",
       "label": "深色服装主角 · 背面姿态",
       "group": "assets/characters/protagonist-dark/back-view.png",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/characters/representatives/gesture-hand.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\representatives\\gesture-hand",
       "label": "伸出的手",
       "group": "assets/characters/representatives/gesture-hand.png",
       "category": "人物",
-      "size": [
-        290,
-        440
-      ]
+      "size": [290, 440]
     },
     {
       "file": "assets/backgrounds/meadow-close.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\backgrounds\\meadow-close",
       "label": "近景草地",
       "group": "assets/backgrounds/meadow-close.png",
       "category": "背景",
-      "size": [
-        2400,
-        1080
-      ]
+      "size": [2400, 1080]
     },
     {
       "file": "assets/characters/protagonist-dark/front-view.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\front-view",
       "label": "深色服装主角 · 正面姿态",
       "group": "assets/characters/protagonist-dark/front-view.png",
       "category": "人物",
-      "size": [
-        1024,
-        1536
-      ]
+      "size": [1024, 1536]
     },
     {
       "file": "assets/props/foreground-hand.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\props\\foreground-hand",
       "label": "前景手部",
       "group": "assets/props/foreground-hand.png",
       "category": "道具",
-      "size": [
-        2416,
-        1215
-      ]
+      "size": [2416, 1215]
     },
     {
       "file": "assets/props/sleeve.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\props\\sleeve",
       "label": "袖口",
       "group": "assets/props/sleeve.png",
       "category": "道具",
-      "size": [
-        40,
-        40
-      ]
+      "size": [40, 40]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-00.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-00",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-01.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-01",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-02.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-02",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-03.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-03",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-04.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-04",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-05.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-05",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-06.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-06",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-07.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-07",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-08.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-08",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-09.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-09",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-10.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-10",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-11.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-11",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-12.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-12",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-13.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-13",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-14.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-14",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-15.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-15",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/characters/protagonist-dark/expressions/reaction-16.png",
-      "stages": [
-        13
-      ],
+      "stages": [13],
       "id": "assets\\characters\\protagonist-dark\\expressions\\reaction-16",
       "label": "深色服装主角 · 反应表情",
       "group": "assets/characters/protagonist-dark/expressions",
       "category": "人物",
-      "size": [
-        300,
-        290
-      ]
+      "size": [300, 290]
     },
     {
       "file": "assets/props/hand-close.png",
-      "stages": [
-        13,
-        14
-      ],
+      "stages": [13, 14],
       "id": "assets\\props\\hand-close",
       "label": "手部特写",
       "group": "assets/props/hand-close.png",
       "category": "道具",
-      "size": [
-        2160,
-        1215
-      ]
+      "size": [2160, 1215]
     },
     {
       "file": "assets/props/wand/rod-and-tomato.png",
-      "stages": [
-        14
-      ],
+      "stages": [14],
       "id": "assets\\props\\wand\\rod-and-tomato",
       "label": "番茄逗猫棒",
       "group": "assets/props/wand/rod-and-tomato.png",
       "category": "道具",
-      "size": [
-        1173,
-        1341
-      ]
+      "size": [1173, 1341]
     },
     {
       "file": "assets/props/explanation-bubble.png",
-      "stages": [
-        14,
-        15
-      ],
+      "stages": [14, 15],
       "id": "assets\\props\\explanation-bubble",
       "label": "解释框",
       "group": "assets/props/explanation-bubble.png",
       "category": "道具",
-      "size": [
-        3840,
-        2160
-      ]
+      "size": [3840, 2160]
     },
     {
       "file": "assets/characters/mascot/reaching.png",
-      "stages": [
-        14,
-        15
-      ],
+      "stages": [14, 15],
       "id": "assets\\characters\\mascot\\reaching",
       "label": "伸手吉祥物",
       "group": "assets/characters/mascot/reaching.png",
       "category": "人物",
-      "size": [
-        1200,
-        1215
-      ]
+      "size": [1200, 1215]
     },
     {
       "file": "assets/characters/representatives/explaining-group.png",
-      "stages": [
-        14,
-        15
-      ],
+      "stages": [14, 15],
       "id": "assets\\characters\\representatives\\explaining-group",
       "label": "解释群像",
       "group": "assets/characters/representatives/explaining-group.png",
       "category": "人物",
-      "size": [
-        1536,
-        1024
-      ]
+      "size": [1536, 1024]
     },
     {
       "file": "assets/characters/protagonist-dark/wand-holder.png",
-      "stages": [
-        14,
-        15
-      ],
+      "stages": [14, 15],
       "id": "assets\\characters\\protagonist-dark\\wand-holder",
       "label": "深色服装主角 · 持棒姿态",
       "group": "assets/characters/protagonist-dark/wand-holder.png",
       "category": "人物",
-      "size": [
-        1152,
-        1536
-      ]
+      "size": [1152, 1536]
     },
     {
       "id": "board-lettering",
@@ -4725,14 +3012,8 @@
       "label": "黑板文字",
       "group": "board-lettering",
       "category": "道具",
-      "size": [
-        1920,
-        1080
-      ],
-      "stages": [
-        11,
-        16
-      ]
+      "size": [1920, 1080],
+      "stages": [11, 16]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "images": {
-    "room": "assets/backgrounds/lab-board.png",
+    "room": "assets/backgrounds/lab-wall.png",
     "bubble": "assets/props/explanation-bubble.png",
     "bubbleMascot": "assets/characters/mascot/reaching.png"
   },
@@ -9,29 +9,13 @@
       "text": "ATGACCAA",
       "x": 1140,
       "y": 420.5,
-      "jitter": [
-        2,
-        2,
-        1,
-        1,
-        0,
-        1,
-        -1,
-        -1
-      ]
+      "jitter": [2, 2, 1, 1, 0, 1, -1, -1]
     },
     {
       "text": "BY:Yin",
       "x": 1155,
       "y": 607,
-      "jitter": [
-        0,
-        -1,
-        0,
-        0,
-        0,
-        0
-      ]
+      "jitter": [0, -1, 0, 0, 0, 0]
     }
   ],
   "glyphs": {
@@ -74,10 +58,7 @@
   },
   "charm": {
     "path": "M164 41L247 45L175 84L0 269L24 540L84 686L168 785L351 862L586 869L620 868L836 800L889 743L971 646L1004 509L1028 363L930 226L827 115L751 76L767 55L812 39L747 16L713 8L638 32L619 11L607 5L592 24L426 1L414 1L340 18L296 0L289 0ZM88 208L237 163L411 186L442 235L495 396L566 251L605 209L796 218L945 284L878 218L834 180L699 146L767 55L811 39L746 16L715 9L637 32L617 10L606 5L558 72L540 85L510 121L477 76L295 0L256 10L164 42L251 44L339 114L237 115L210 118L169 144Z",
-    "anchor": [
-      514.5,
-      69.68
-    ],
+    "anchor": [514.5, 69.68],
     "width": 1029,
     "height": 871
   },
@@ -107,5 +88,6 @@
     "y": 25,
     "width": 600.6,
     "height": 554.4
-  }
+  },
+  "roomRectangle": [-256, -256, 2432, 1592]
 }
