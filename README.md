@@ -17,7 +17,9 @@ npm start
 
 macOS / Linux 使用 `python3` 创建环境，并将 Python 路径换为 `.venv/bin/python`。
 
-打开 **http://127.0.0.1:8767**。Windows 也可双击 `start-preview.cmd`。导出使用本机 Edge 或 Playwright Chromium；没有可用浏览器时运行 `npx playwright install chromium`。
+打开 http://127.0.0.1:8767 ，Windows 也可双击 `start-preview.cmd`。
+
+导出使用本机 Edge 或 Playwright Chromium；没有可用浏览器时运行 `npx playwright install chromium`。
 
 ## 使用
 
